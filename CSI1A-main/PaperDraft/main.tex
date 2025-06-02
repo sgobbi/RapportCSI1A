@@ -19,6 +19,9 @@
 \usepackage{wrapfig}
 \usepackage{graphicx}
 \usepackage{titlesec}
+\usepackage{lmodern}
+\usepackage{lipsum}
+\usepackage{cfg/psl-cover}
 \addbibresource{bibliographie.bib}
 
 \titleformat{\subsection}[block]
@@ -44,38 +47,32 @@
 \author{Salomé Gobbi}
 \date{May 2025}
 
+
+\pslassetspath{pls-assets}
+
+\newcommand{\todo}[1]{{\color{red}\textbf{TODO} \textit{#1}}}
+
+
+\title{
+Interface de création basée sur l'IA pour la stimulation de l'incarnation d'un acteur
+\\
+\vspace{1cm}
+AI-based creative interface for enhancing the embodiment of an actor
+}
+
+\author{Salomé Gobbi}
+
+\institute{Mines Paris - PSL}
+\doctoralschool{ISMME}{621}
+\specialty{Informatique temps réel, robotique et automatique}
+\date{27 Juin 2025}
+
+\jurymember{1}{Daniel Pressnitzer}{}{}
+\jurymember{2}{Brian Ravenet}{}{}
+
+
 \begin{document}
-
-\begin{titlepage}
-    \begin{center}
-        \vspace*{1cm}
-        
-        \large{\textsc{CAOR Mines Paris}}
-        
-        \vspace{0.5cm}
-        \textbf{\Huge{\textsc{CSI Première année}}}
-        
-        \vspace{0.5cm}
-        \textsc{Janvier 2025 - Juillet 2025}
-        
-        \vspace{1cm}
-        
-        \Large{\textsc{Salomé Gobbi}}
-
-        \vspace{0.5cm}
-        \large{\textsc{Interface de création basée sur l'IA pour la stimulation de l'incarnation d'un acteur}}
-        
-        \vspace{0.8cm}
-        
-        \begin{multicols}{2}
-        \raggedleft
-        \textbf{\large{Directeur de thèse :}}\\
-        \raggedright
-        \textsc{Alexis Paljic}\\
-        \end{multicols}
-        
-    \end{center}
-\end{titlepage}
+\maketitle{}
 
 \renewcommand{\contentsname}{Sommaire}
 \tableofcontents
