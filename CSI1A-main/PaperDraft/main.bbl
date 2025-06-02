@@ -1,0 +1,557 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{MASCARET.Buche+}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=75fd301ffa8da4ce2c251afb3ca5a812}{%
+           family={Buche},
+           familyi={B\bibinitperiod},
+           given={Cédric},
+           giveni={C\bibinitperiod}}}%
+        {{hash=437f5293250ae5cfaa8f719065a1139b}{%
+           family={Querrec},
+           familyi={Q\bibinitperiod},
+           given={Ronan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a964418be54c63ce56fd084af6b74b78}{%
+           family={De\bibnamedelima Loor},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=65ede4424fbc159004851d866fe84245}{%
+           family={Chevaillier},
+           familyi={C\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{992abe9eb1d2ec37dba067bb66fc19a9}
+      \strng{fullhash}{519d12bc75d0b6d6b92a64f77097c513}
+      \strng{fullhashraw}{519d12bc75d0b6d6b92a64f77097c513}
+      \strng{bibnamehash}{992abe9eb1d2ec37dba067bb66fc19a9}
+      \strng{authorbibnamehash}{992abe9eb1d2ec37dba067bb66fc19a9}
+      \strng{authornamehash}{992abe9eb1d2ec37dba067bb66fc19a9}
+      \strng{authorfullhash}{519d12bc75d0b6d6b92a64f77097c513}
+      \strng{authorfullhashraw}{519d12bc75d0b6d6b92a64f77097c513}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IJDET}
+      \field{month}{01}
+      \field{title}{MASCARET: A pedagogical multi-agent system for virtual environment for training}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{41\bibrangedash 61}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1109/CYBER.2003.1253485
+      \endverb
+    \endentry
+    \entry{ImplicitMotorLearning.Fang+}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=49a9a9c965001db641ceb0e392d3b385}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=dec3a9a0313c422a69f86ebeff67471b}{%
+           family={Ru},
+           familyi={R\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EWA Publishing}%
+      }
+      \strng{namehash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{fullhash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{fullhashraw}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{bibnamehash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{authorbibnamehash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{authornamehash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{authorfullhash}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \strng{authorfullhashraw}{c2be95438f8c6a2f606e5de1fd3cc79d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper systematically explores the impact of implicit motor learning on motor performance, including the concepts and theoretical foundations of implicit motor learning, its relationship with the development of motor skills and motor performance, the effects and practical applications of implicit motor learning training, as well as the moderating role of psychological factors. Research findings suggest that implicit motor learning training plays a crucial role in enhancing motor skills and promoting rehabilitation, with potential value in sports education. Future research can further investigate individual differences, neural mechanisms, optimization of clinical applications, intervention strategies for psychological factors, and interdisciplinary studies, among other aspects.}
+      \field{journaltitle}{Lecture Notes in Education Psychology and Public Media}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{The impact of implicit motor learning on motor performance}
+      \field{volume}{25}
+      \field{year}{2023}
+      \field{pages}{103\bibrangedash 111}
+      \range{pages}{9}
+    \endentry
+    \entry{Coembodiment.Kodama+}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=7878894d24573114577bba4b5639e097}{%
+           family={Kodama},
+           familyi={K\bibinitperiod},
+           given={Daiki},
+           giveni={D\bibinitperiod}}}%
+        {{hash=5ef2f4f602d93ef512945d9967b5840b}{%
+           family={Mizuho},
+           familyi={M\bibinitperiod},
+           given={Takato},
+           giveni={T\bibinitperiod}}}%
+        {{hash=167697c81a890ad295e17db1de168114}{%
+           family={Hatada},
+           familyi={H\bibinitperiod},
+           given={Yuji},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f76665f3f525b187167bc269b7fbb9db}{%
+           family={Narumi},
+           familyi={N\bibinitperiod},
+           given={Takuji},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c6b0c044e4e4ea3adb27614d93f9fec5}{%
+           family={Hirose},
+           familyi={H\bibinitperiod},
+           given={Michitaka},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9698ee19afe42f38ab05b9fa138a3eee}
+      \strng{fullhash}{7730c1521aecefb91dc6f3109b639fd6}
+      \strng{fullhashraw}{7730c1521aecefb91dc6f3109b639fd6}
+      \strng{bibnamehash}{9698ee19afe42f38ab05b9fa138a3eee}
+      \strng{authorbibnamehash}{9698ee19afe42f38ab05b9fa138a3eee}
+      \strng{authornamehash}{9698ee19afe42f38ab05b9fa138a3eee}
+      \strng{authorfullhash}{7730c1521aecefb91dc6f3109b639fd6}
+      \strng{authorfullhashraw}{7730c1521aecefb91dc6f3109b639fd6}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Visualization and Computer Graphics}
+      \field{number}{5}
+      \field{title}{Effects of Collaborative Training Using Virtual Co-embodiment on Motor Skill Learning}
+      \field{volume}{29}
+      \field{year}{2023}
+      \field{pages}{2304\bibrangedash 2314}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1109/TVCG.2023.3247112
+      \endverb
+      \keyw{Avatars;Task analysis;Training;Quaternions;Virtual environments;Trajectory;Stars;Collaborative training;Virtual co-embodiment;Motor skill learning;Sense of agency}
+    \endentry
+    \entry{ComplexSkillVRLearningReview.Levac+}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=fd96d778508bef37681ba7ebd4e64354}{%
+           family={Levac},
+           familyi={L\bibinitperiod},
+           given={Danielle\bibnamedelima E},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=56abf1033b61f5787b8476c30a31329b}{%
+           family={Huber},
+           familyi={H\bibinitperiod},
+           given={Meghan\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6c033bfa04fd2ec4fc214866267684cc}{%
+           family={Sternad},
+           familyi={S\bibinitperiod},
+           given={Dagmar},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{3668283e3e994d9962a422f20d68b506}
+      \strng{fullhash}{3668283e3e994d9962a422f20d68b506}
+      \strng{fullhashraw}{3668283e3e994d9962a422f20d68b506}
+      \strng{bibnamehash}{3668283e3e994d9962a422f20d68b506}
+      \strng{authorbibnamehash}{3668283e3e994d9962a422f20d68b506}
+      \strng{authornamehash}{3668283e3e994d9962a422f20d68b506}
+      \strng{authorfullhash}{3668283e3e994d9962a422f20d68b506}
+      \strng{authorfullhashraw}{3668283e3e994d9962a422f20d68b506}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The development of more effective rehabilitative interventions requires a better understanding of how humans learn and transfer motor skills in real-world contexts. Presently, clinicians design interventions to promote skill learning by relying on evidence from experimental paradigms involving simple tasks, such as reaching for a target. While these tasks facilitate stringent hypothesis testing in laboratory settings, the results may not shed light on performance of more complex real-world skills. In this perspective, we argue that virtual environments (VEs) are flexible, novel platforms to evaluate learning and transfer of complex skills without sacrificing experimental control. Specifically, VEs use models of real-life tasks that afford controlled experimental manipulations to measure and guide behavior with a precision that exceeds the capabilities of physical environments. This paper reviews recent insights from VE paradigms on motor learning into two pressing challenges in rehabilitation research: 1) Which training strategies in VEs promote complex skill learning? and 2) How can transfer of learning from virtual to real environments be enhanced? Defining complex skills by having nested redundancies, we outline findings on the role of movement variability in complex skill acquisition and discuss how VEs can provide novel forms of guidance to enhance learning. We review the evidence for skill transfer from virtual to real environments in typically developing and neurologically-impaired populations with a view to understanding how differences in sensory-motor information may influence learning strategies. We provide actionable suggestions for practicing clinicians and outline broad areas where more research is required. Finally, we conclude that VEs present distinctive experimental platforms to understand complex skill learning that should enable transfer from therapeutic practice to the real world.}
+      \field{journaltitle}{J. Neuroeng. Rehabil.}
+      \field{month}{10}
+      \field{number}{1}
+      \field{title}{Learning and transfer of complex motor skills in virtual reality: a perspective review}
+      \field{volume}{16}
+      \field{year}{2019}
+      \field{pages}{121}
+      \range{pages}{1}
+      \keyw{Complex skills; Motor learning; Redundancy; Rehabilitation; Sensorimotor control; Transfer; Variability; Virtual environments; Virtual reality}
+    \endentry
+    \entry{InvestigateAcquireSkill.Mangalam+}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=c6e1f83f18f6c145a3b7ca8e6b951382}{%
+           family={Mangalam},
+           familyi={M\bibinitperiod},
+           given={Madhur},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f9bec05af651a4c39052e2a04e6a2d21}{%
+           family={Yarossi},
+           familyi={Y\bibinitperiod},
+           given={Mathew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c83926c2004a07fd3b5eb0cd38f9b845}{%
+           family={Furmanek},
+           familyi={F\bibinitperiod},
+           given={Mariusz\bibnamedelima P},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=cf675af16b372565d5a699077c9f6746}{%
+           family={Krakauer},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=20f4c0908bf8d5620d2e9d7f3530ed1d}{%
+           family={Tunik},
+           familyi={T\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society}%
+      }
+      \strng{namehash}{ea44a338cd9e17dd9e7e91157809783d}
+      \strng{fullhash}{2b46fb8c8cab2937ea1d3c1cbb9d71d3}
+      \strng{fullhashraw}{2b46fb8c8cab2937ea1d3c1cbb9d71d3}
+      \strng{bibnamehash}{ea44a338cd9e17dd9e7e91157809783d}
+      \strng{authorbibnamehash}{ea44a338cd9e17dd9e7e91157809783d}
+      \strng{authornamehash}{ea44a338cd9e17dd9e7e91157809783d}
+      \strng{authorfullhash}{2b46fb8c8cab2937ea1d3c1cbb9d71d3}
+      \strng{authorfullhashraw}{2b46fb8c8cab2937ea1d3c1cbb9d71d3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{After just months of simulated training, on January 19, 2019 a 23-year-old E-sports pro-gamer, Enzo Bonito, took to the racetrack and beat Lucas di Grassi, a Formula E and ex-Formula 1 driver with decades of real-world racing experience. This event raised the possibility that practicing in virtual reality can be surprisingly effective for acquiring motor expertise in real-world tasks. Here, we evaluate the potential of virtual reality to serve as a space for training to expert levels in highly complex real-world tasks in time windows much shorter than those required in the real world and at much lower financial cost without the hazards of the real world. We also discuss how VR can also serve as an experimental platform for exploring the science of expertise more generally.}
+      \field{journaltitle}{J. Neurophysiol.}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Investigating and acquiring motor expertise using virtual reality}
+      \field{volume}{129}
+      \field{year}{2023}
+      \field{pages}{1482\bibrangedash 1491}
+      \range{pages}{10}
+      \keyw{deliberate practice; expert performance; motor learning; skill; task performance}
+    \endentry
+    \entry{TrainingVR.Pastel+}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=c514239e9a42deb09370381b3ac76aa3}{%
+           family={Pastel},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f2ad6ed147cc98c02654a0f9e6ee40db}{%
+           family={Petri},
+           familyi={P\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=db5ece09e0b1e450bb4488bff0ac729e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={C\bibnamedelima H},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ba4bbf759addd04fba0969df9e3e2b8b}{%
+           family={Wiegand\bibnamedelima Cáceres},
+           familyi={W\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ana\bibnamedelima Milena},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f76150b547dd04300b4461e6be4bf111}{%
+           family={Stirnatis},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ac992ae8eff919cee0fb9c15d51b2962}{%
+           family={Nübel},
+           familyi={N\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=33fad7424f13a8b83d1a32f0aab34d3c}{%
+           family={Schlotter},
+           familyi={S\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=668ad85858832b4b531d6f2351ebc012}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{0e0344737c944188f536416bea2de05c}
+      \strng{fullhash}{f67e730847a13535cb712e07a1b18f25}
+      \strng{fullhashraw}{f67e730847a13535cb712e07a1b18f25}
+      \strng{bibnamehash}{0e0344737c944188f536416bea2de05c}
+      \strng{authorbibnamehash}{0e0344737c944188f536416bea2de05c}
+      \strng{authornamehash}{0e0344737c944188f536416bea2de05c}
+      \strng{authorfullhash}{f67e730847a13535cb712e07a1b18f25}
+      \strng{authorfullhashraw}{f67e730847a13535cb712e07a1b18f25}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{AbstractDespite the increased use in sports, it is still unclear to what extent VR training tools can be applied for motor learning of complex movements. Previous VR studies primarily relate to realize performances rather than learning motor skills. Therefore, the current study compared VR with video training realizing the acquisition of karate technique, the Soto Uke moving forward in Zenkutsu Dachi, without being accompanied by a trainer or partner. Further analyses showed whether a less lavished forearm compared to a whole-body visualization in VR is necessary to acquire movements' basics sufficiently. Four groups were tested: 2 groups conducted VR training (VR-WB: whole-body visualization, and VR-FA having only visualized the forearms), the third group passed through a video-based learning method (VB), and the control group (C) had no intervention. In consultation with karate experts, a scoring system was developed to determine the movements' quality divided, into upper- and lower body performance and the fist pose. The three-way ANOVA with repeated measurements, including the between-subject factor group [VR-WB, VR-FA, VB, C] and the within-subject factors time [pre, post, retention] and body regions [upper body, lower body, fist pose], shows that all groups improved significantly (except for C) with the similar course after four training sessions in all body regions. Accordingly, VR training seems to be as effective as video training, and the transfer from VR-adapted skills into the natural environment was equally sufficient, although presenting different body visualization types. Further suggestions are made related to the features of future VR training simulations.}
+      \field{journaltitle}{Virtual Real.}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Training in virtual reality enables learning of a complex sports movement}
+      \field{volume}{27}
+      \field{year}{2023}
+      \field{pages}{523\bibrangedash 540}
+      \range{pages}{18}
+    \endentry
+    \entry{SoYouLearnImplicitly.Poolton+}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=9286e74884afdac3bbd0411ee1f88800}{%
+           family={Poolton},
+           familyi={P\bibinitperiod},
+           given={Jamie\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=39c69d3c80b6ad4d3364ae2d8db257e4}{%
+           family={Zachry},
+           familyi={Z\bibinitperiod},
+           given={Tiffany\bibnamedelima L},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications}%
+      }
+      \strng{namehash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{fullhash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{fullhashraw}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{bibnamehash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{authorbibnamehash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{authornamehash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{authorfullhash}{f7e6b45b9e5e56faef548aa27650ac79}
+      \strng{authorfullhashraw}{f7e6b45b9e5e56faef548aa27650ac79}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Implicit motor learning is an established motor learning technique that has been largely overlooked outside of academia. It is beneficial to learners in that it allows them to perform undisrupted even in the face of stress and other adverse conditions. This is thought to be due to a reduced ability to `reinvest' acquired knowledge -- something that can cause the performer to `manually override' what should be an automatic movement. The problem with traditional forms of implicit motor learning is their impracticality in applied settings. To that end, in this paper we attempt to provide a jumping off point for practitioners by briefly outlining the theoretical concepts of implicit learning and the difficulties it faces. From there, we explore alternative techniques that are more practical but impart similar, if not identical, benefits to performance.}
+      \field{journaltitle}{Int. J. Sports Sci. Coach.}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{So you want to learn implicitly? Coaching and learning through implicit motor learning techniques}
+      \field{volume}{2}
+      \field{year}{2007}
+      \field{pages}{67\bibrangedash 78}
+      \range{pages}{12}
+    \endentry
+    \entry{ApplicationVRForTraining.Tang}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=e6749bea0f0039847494c34954eb25b0}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Yinchun},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{fullhash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{fullhashraw}{e6749bea0f0039847494c34954eb25b0}
+      \strng{bibnamehash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{authorbibnamehash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{authornamehash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{authorfullhash}{e6749bea0f0039847494c34954eb25b0}
+      \strng{authorfullhashraw}{e6749bea0f0039847494c34954eb25b0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Mathematics and Nonlinear Sciences}
+      \field{month}{07}
+      \field{title}{Research on the Application of Virtual Reality Technology in Motor Skills Training}
+      \field{volume}{9}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.2478/amns-2024-1646
+      \endverb
+    \endentry
+    \entry{EnhancingTaiChi.Tian+}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=1487e60477fb6a315fa69b2f8ee53c9f}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=77c563be422d099c1734d7987acf0742}{%
+           family={Ni},
+           familyi={N\bibinitperiod},
+           given={Shuting},
+           giveni={S\bibinitperiod}}}%
+        {{hash=84c254f304592e4d965540cfa3d681b0}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiaoyue},
+           giveni={X\bibinitperiod}}}%
+        {{hash=fa91db7fe68f65a4947983b89f69fd65}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=c0a0bcef7f63fefa288971dcea79e4fd}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Qiaolian},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=b79f1d08bc199ce0dc01989a51307efd}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chunyi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=065e165cf405e21a1942d914645cffdd}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yuzhi},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers (IEEE)}%
+      }
+      \strng{namehash}{752afcb070710b0b26a5470465ec03f0}
+      \strng{fullhash}{8a35f2b6739c783931503cca1eeb2122}
+      \strng{fullhashraw}{8a35f2b6739c783931503cca1eeb2122}
+      \strng{bibnamehash}{752afcb070710b0b26a5470465ec03f0}
+      \strng{authorbibnamehash}{752afcb070710b0b26a5470465ec03f0}
+      \strng{authornamehash}{752afcb070710b0b26a5470465ec03f0}
+      \strng{authorfullhash}{8a35f2b6739c783931503cca1eeb2122}
+      \strng{authorfullhashraw}{8a35f2b6739c783931503cca1eeb2122}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this article, we propose a lightweight and flexible enhanced Tai Chi training system composed of multiple standalone virtual reality (VR) devices. The system aims to enable a hyper-realistic multi-user action training platform at low cost by displaying real-time action guidance trajectories, providing real-world impossible visual effects and functions, and rapidly enhancing movement precision and communication interest for learners. We objectively evaluate participants' action quality at different levels of immersion, including traditional coach guidance (TCG), VR, and mixed reality (MR), along with subjective measures like motion sickness, quality of interaction, social meaning, presence/immersion to comprehensively explore the system's feasibility. The results indicate VR performs the best in training accuracy, but MR provides superior social experience and relatively high accuracy. Unlike TCG, MR offers hyper-realistic hand movement trajectories and Tai Chi social references. Compared with VR, MR provides more realistic avatar companions and a safer environment. In summary, MR balances accuracy and social experience.}
+      \field{journaltitle}{IEEE Trans. Vis. Comput. Graph.}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{Enhancing Tai Chi training system: Towards group-based and hyper-realistic training experiences}
+      \field{volume}{30}
+      \field{year}{2024}
+      \field{pages}{2713\bibrangedash 2723}
+      \range{pages}{11}
+    \endentry
+    \entry{OPTIMAL.Wulf+}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=3e09d87cbe913eaaa71d2dc4059bb1aa}{%
+           family={Wulf},
+           familyi={W\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1cb4ca7d9713255986ae6b2b32304c7d}{%
+           family={Lewthwaite},
+           familyi={L\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{fullhash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{fullhashraw}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{bibnamehash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{authorbibnamehash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{authornamehash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{authorfullhash}{e402229044b5d5dcbe15d3080cff735d}
+      \strng{authorfullhashraw}{e402229044b5d5dcbe15d3080cff735d}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychon. Bull. Rev.}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Optimizing performance through intrinsic motivation and attention for learning: The {OPTIMAL} theory of motor learning}
+      \field{volume}{23}
+      \field{year}{2016}
+      \field{pages}{1382\bibrangedash 1414}
+      \range{pages}{33}
+    \endentry
+    \entry{Reflecting_skill.Yadav+}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=05ecd99c41feea9650cc95e3c803b2c0}{%
+           family={Yadav},
+           familyi={Y\bibinitperiod},
+           given={Goldy},
+           giveni={G\bibinitperiod}}}%
+        {{hash=4b919b3b2c75a14e64ab565cc40fbc33}{%
+           family={Duque},
+           familyi={D\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{fullhash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{fullhashraw}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{bibnamehash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{authorbibnamehash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{authornamehash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{authorfullhash}{0c7c249954f7de94336b7e8d6c83ac56}
+      \strng{authorfullhashraw}{0c7c249954f7de94336b7e8d6c83ac56}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>Humans have an exceptional ability to execute a variety of skilled movements. Researchers have been long interested in understanding behavioral and neurophysiological basis of human motor skill learning for advancing both fundamental neuroscientific knowledge and clinical outcomes. However, despite decades of work in this field there is a lack of consensus about what is meant by “skill” in skill learning. With an advent of various task paradigms testing human motor behavior and increasing heterogeneity in motor learning assessments methods, it is very crucial to identify key features of skill in order to avoid any ambiguity that may result in misinterpretation or over-generalization of findings, which could have serious implications for replication and translational research. In this review, we attempt to highlight the features of skill following a historical approach, considering the seminal work that led to the first definitions of skill and including some contemporary concepts emerging from human motor learning research. Overall, based on this literature, we emphasize that skill has some fundamental characteristics, such as- (i) optimal movement selection and execution, (ii) improved movement speed and accuracy, and (iii) reduced movement variability and error. These features of skill can emerge as a consequence of extensive practice/training/learning, thus resulting in an improved performance state beyond baseline levels. Finally we provide some examples of model tasks that can appropriately capture these features of skill, and conclude that any neuroscientific endeavor aimed at understanding the essence of skill in human motor skill learning should focus on these aspects.</p>}
+      \field{issn}{1662-5161}
+      \field{journaltitle}{Frontiers in Human Neuroscience}
+      \field{title}{Reflecting on what is “skill” in human motor skill learning}
+      \field{volume}{Volume 17 - 2023}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3389/fnhum.2023.1117889
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1117889
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1117889
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,42 @@
+\section{Définition de la structure ITS et choix de la méthodologie d'apprentissage implicite}
+
+\subsection{ITS}
+Afin de donner un cadre plus clair à notre sujet, nous proposons de passer par la structuration de l'\textit{Intelligent Tuition System (ITS)}.
+L'ITS est structuré en quatre modèles \cite{MASCARET.Buche+} : 
+
+\begin{enumerate}
+    \item modèle du domaine : représente la connaissance de l'expert à transmettre
+    \item modèle apprenant : représente l'état de la connaissance de l'apprenant à tout instant
+    \item modèle pédagogique :  représente les choix pédagogiques faits en fonction du comportement de l'apprenant 
+    \item modèle d'interface : représente l'échangement d'information entre l'utilisateur et le système 
+\end{enumerate}
+
+Quelque soit le nombre de phases d'apprentissage du système que l'on choisit, le modèle du domaine reste le même, car la connaissance que l'on vise à transmettre à l'apprenant ne doit pas changer. 
+En revanche, le modèle apprenant, lui, peut voir des différences d'implémentation ou d'approche, car la façon d'évaluer ou de modéliser la connaissance peut être sujette à des modifications. 
+Les modèles pédagogiques et d'interface sont eux propres à chaque phase et approche retenue, et font partie des paramètres sur lesquels nous allons pouvoir jouer au cours des expérimentations. \\
+
+Cette strucure permettra également de tester et comparer différentes interfaces et choix pédagogiques, que nous allons détailler dans la suite. 
+
+
+\subsection{Apprentissage implicite}
+
+Comme nous l'avons vu dans la partie \ref{definition_geste_expert}, le geste expert comporte à la fois une partie consciente et inconsciente.
+Il semble donc logique de choisir des méthodes pédagogiques ciblant spécifiquement la mémorisation consciente et inconsciente, d'où pour la seconde l'attrait des méthodes d'apprentissage implicite. \\
+
+Par définition, l'apprentissage implicite s'oppose à l'apprentissage explicite. 
+L'implicite vise l'inconscient, sans un but apparent d'apprentissage clair et sans moyen d'auto évaluation, ce qui ne permet pas à tout instant de se situer dans son état d'apprentissage. 
+Au contraire, l'explicite fournit un but, des moyens d'auto évaluation et l'état de connaissance de l'apprenant lui est connu, ce qui lui permet de choisir des stratégies et objectifs pédagogiques.
+Ces deux modes d'apprentissage stimulent par ailleurs des aires du cerveau distinctes. \cite{ImplicitMotorLearning.Fang+}
+On peut également voir l'apprentissage implicite comme le fait de retirer tous les éléments verbaux et analytiques du processus d'apprentissage, afin d'empêcher l'apprenant de stimuler sa mémoire explicite \cite{SoYouLearnImplicitly.Poolton+}
+(ce qui peut également être fait en occupant artificiellement cette mémoire par quelque chose d'inutile pour la tâche en question, par exemple). \\
+
+\cite{SoYouLearnImplicitly.Poolton+} cite trois grandes catégories de méthodes pour l'apprentissage implicite : 
+\begin{itemize}
+    \item apprentissage sans erreur : commencer l'apprentissage par des choses si simples que l'erreur y est improbable, pour ne pas ensuite pouvoir conscientiser une mauvaise manière de faire le geste
+    \item focus externe de l'attention : ramener le focus de l'apprenant non pas sur son geste, mais sur la conséquence de son geste
+    \item apprentissage par analogie : proposer une analogie du mouvement (par exemple sonification, mouvement similaire dans un autre domaine) pour exercer de façon décorellée de son domaine le mouvement \\
+\end{itemize} 
+
+L'apprentissage implicite présente également des avantages pédagogiques supplémentaire, car cette méthode propose une méthode de pédagogie positive engendrant un cycle vertueux d'apprentissage. 
+En effet, cette plus grande autonomie de l'apprenant couplée à un focus externe de son attention offrent une plus grande motivation, une plus grande implication dans l'apprentissage, et permettent d'obtenir de meilleurs résultats en termes de précision et de rétention. \cite{OPTIMAL.Wulf+} 
+
