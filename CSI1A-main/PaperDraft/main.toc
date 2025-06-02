@@ -5,6 +5,16 @@
 \contentsline {section}{\numberline {3}Répétition Theatrale en VR}{4}{section.3}%
 \contentsline {section}{\numberline {4}Etude pilote}{5}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Objectif de l'étude}{5}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Protocole}{5}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Conclusions}{5}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Bibliographie}{6}{section.5}%
+\contentsline {subsection}{\numberline {4.2}Protocole}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Conclusions}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Intégration de l'IA}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Nature des objets générés}{7}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Génération d'images et de vidéos 360 degrés}{7}{subsubsection.5.1.1}%
+\contentsline {paragraph}{}{7}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Génération d'objets}{7}{subsubsection.5.1.2}%
+\contentsline {paragraph}{}{7}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Génération d'environnements 3D}{7}{subsubsection.5.1.3}%
+\contentsline {paragraph}{}{7}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.2}Méthodes de prompting et d'interaction avec l'outil}{7}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Retrieval Augmented Generation}{7}{subsubsection.5.2.1}%
+\contentsline {section}{\numberline {6}Bibliographie}{8}{section.6}%

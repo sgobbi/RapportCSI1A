@@ -18,8 +18,24 @@
 \usepackage{multicol}
 \usepackage{wrapfig}
 \usepackage{graphicx}
-% \usepackage[backend=biber, sorting=nyt, citestyle=authoryear, bibstyle=authoryear]{biblatex}
+\usepackage{titlesec}
 \addbibresource{bibliographie.bib}
+
+\titleformat{\subsection}[block]
+  {\normalfont\large\bfseries}   
+  {\thesubsection}               
+  {1em}                          
+  {}                             
+
+\titlespacing*{\subsection}{0.5cm}{10pt}{5pt}
+
+\titleformat{\subsubsection}[block]
+  {\normalfont\large\bfseries}   
+  {\thesubsubsection}               
+  {1em}                          
+  {}                             
+
+\titlespacing*{\subsubsection}{1cm}{10pt}{5pt}
 
 \lstset{language=C, keywordstyle={\bfseries \color{blue}}}
 \onehalfspacing
@@ -49,20 +65,8 @@
         \vspace{0.5cm}
         \large{\textsc{Interface de création basée sur l'IA pour la stimulation de l'incarnation d'un acteur}}
         
-        % \vspace{2cm}
-        % \begin{figure}[h!]
-        % \centering
-        % \includegraphics[scale=0.19]{LogoOresys.png}
-        % \end{figure}
-        
-        % \vfill
-        
         \vspace{0.8cm}
         
-        % \begin{figure}[h!]
-        % \centering
-        % \includegraphics[scale=0.13]{cs.png}
-        % \end{figure}
         \begin{multicols}{2}
         \raggedleft
         \textbf{\large{Directeur de thèse :}}\\
@@ -87,14 +91,16 @@
 \input{Introduction}
 
 \newpage
-\input{RepetitionTheatrale.tex}
+\input{RepetitionTheatrale/RepetitionTheatrale.tex}
 
 \newpage
-\input{RepetitionEnVR}
+\input{RepetitionVR/RepetitionEnVR}
 
 \newpage
-\input{EtudePilote.tex}
+\input{EtudePilote/EtudePilote.tex}
 
+\newpage
+\input{IntegrationIA/IntegrationIA.tex}
 
 \newpage
 \section{Bibliographie}
