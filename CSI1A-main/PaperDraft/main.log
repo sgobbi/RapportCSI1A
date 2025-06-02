@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.2)  2 JUN 2025 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.2)  2 JUN 2025 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Mines/Downloads/CSI1A-main/CSI1A-main/PaperDraft/main.tex
-(c:/Users/Mines/Downloads/CSI1A-main/CSI1A-main/PaperDraft/main.tex
+**c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex
+(c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
 (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -799,11 +799,11 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
  (main.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
@@ -817,48 +817,36 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.78 \newpage
-              [1]
-
-<MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg, id=83, 72.5117pt x 21.51181pt>
-File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
-<use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 90.
-(pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 90.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 90.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 32.31535pt, for example:
-(fancyhdr)                \setlength{\headheight}{32.31535pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
-
-[2 <./MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>] (definition_termes_sujet.tex
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 3.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 15.
-(C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond-osf.fd
+              [1] (Introduction
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 6.
+ (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ts1ebgaramond-osf.fd
 File: TS1EBGaramond-OsF.fd 2023/03/19 (autoinst) Font definitions for TS1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 15.
+(Font)              scaled to size 12.0pt on input line 6.
+)
 
-Overfull \hbox (11.10313pt too wide) in paragraph at lines 28--30
-[]\T1/EBGaramond-OsF/m/n/12 Nous pro-posons donc, pour la suite, un dé-coupage sim-i-laire en trois phases pour l'apprentissage,
- []
+<MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg, id=76, 72.5117pt x 21.51181pt>
+File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
+<use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 89.
+(pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 89.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 89.
 
-) (definition_its.tex
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.31535pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.31535pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
+
+[2{C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc} <./MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>] (RepetitionTheatrale.tex)
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 1.
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 92.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -867,21 +855,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[3{C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_ljow5q.enc}{C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebg_yod6vr.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
-
- []
-
-
+[3] (RepetitionEnVR)
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 25.
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 95.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -890,36 +868,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[4]
-Overfull \hbox (7.49887pt too wide) in paragraph at lines 26--32
-\T1/EBGaramond-OsF/m/n/12 ce qui lui per-met de choisir des straté-gies et ob-jec-tifs péd-a-gogiques. Ces deux modes d'apprentissage
- []
-
-
-Overfull \hbox (20.06567pt too wide) in paragraph at lines 26--32
-\T1/EBGaramond-OsF/m/n/12 im-plicite comme le fait de re-tirer tous les élé-ments ver-baux et an-a-ly-tiques du pro-ces-sus d'apprentissage,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--32
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
-
-Overfull \hbox (33.11453pt too wide) in paragraph at lines 40--42
-\T1/EBGaramond-OsF/m/n/12 cette méth-ode pro-pose une méth-ode de péd-a-gogie pos-i-tive en-gen-drant un cy-cle vertueux d'apprentissage.
- []
-
-) (vr_et_apprentissage.tex
+[4] (EtudePilote.tex)
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 7.
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 99.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -929,50 +882,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
 [5]
-Overfull \hbox (7.52217pt too wide) in paragraph at lines 10--14
-\T1/EBGaramond-OsF/m/n/12 On peut retrou-ver de nom-breux ex-em-ples d'apprentissage de gestes dans la lit-téra-ture ou l'industrie,
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-
- []
-
-
-Overfull \hbox (36.66261pt too wide) in paragraph at lines 15--18
-[]\T1/EBGaramond-OsF/m/n/12 Dans la plu-part des études, on retrouve des métriques éval-u-ant la pré-ci-sion obtenue par l'apprentissage
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--18
-
- []
-
-
-Overfull \hbox (5.85861pt too wide) in paragraph at lines 19--22
-[]\T1/EBGaramond-OsF/m/n/12 Une autre force de la réal-ité virtuelle est d'offrir un ap-pren-tis-sage ac-tif, qui im-plique l'apprenant
- []
-
-
-Overfull \hbox (30.2353pt too wide) in paragraph at lines 19--22
-\T1/EBGaramond-OsF/m/n/12 et lui per-met d'être ac-teur de son ap-pren-tis-sage. Cela per-met d'augmenter l'autonomie de l'apprentissage,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--27
-
- []
+LaTeX Warning: Empty bibliography on input line 101.
 
 
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 27.
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 103.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -981,73 +898,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[6]
-Overfull \hbox (4.0703pt too wide) in paragraph at lines 30--33
-\T1/EBGaramond-OsF/m/n/12 quand même ob-server une peur des ob-sta-cles dans l'environnement réel, qui se retrou-vent masqués
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--33
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
-
- []
-
-)
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 96.
-
-
-File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
-<use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 96.
-(pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 32.31535pt, for example:
-(fancyhdr)                \setlength{\headheight}{32.31535pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
-
-[7]
-
-File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
-<use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 98.
-(pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 32.31535pt, for example:
-(fancyhdr)                \setlength{\headheight}{32.31535pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
-
-[8] (main.aux)
+[6] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6C183797D571A41274A9E91121209646;2535.
+(rerunfilecheck)             Checksum: 6C3BC61586F0334BBDB7A5D6705C7F09;1686.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21580 strings out of 469923
- 377473 string characters out of 5469171
- 1185510 words of memory out of 5000000
- 48060 multiletter control sequences out of 15000+600000
- 713265 words of font info for 86 fonts, out of 8000000 for 9000
+ 21290 strings out of 469923
+ 370060 string characters out of 5469171
+ 1178536 words of memory out of 5000000
+ 47802 multiletter control sequences out of 15000+600000
+ 705479 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,16n,73p,2124b,1538s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Mines\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
-Output written on main.pdf (9 pages, 164045 bytes).
+ 67i,16n,73p,756b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb>
+Output written on main.pdf (7 pages, 100860 bytes).
 PDF statistics:
- 246 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
