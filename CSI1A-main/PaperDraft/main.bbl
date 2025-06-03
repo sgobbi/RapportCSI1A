@@ -109,6 +109,165 @@
       \endverb
       \keyw{in-vr questionnaires,invrqs,research methods,user studies,virtual reality,vr}
     \endentry
+    \entry{Schubert}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b26ac9951d04483171485da590098c03}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e99067f17877cf36a7a85589376e8bb}{%
+           family={Friedmann},
+           familyi={F\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dc8a1be4d57790fcccd12ed85845c30}{%
+           family={Regenbrecht},
+           familyi={R\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{17d0116a3ab251b47803406f70424800}
+      \strng{fullhash}{17d0116a3ab251b47803406f70424800}
+      \strng{fullhashraw}{17d0116a3ab251b47803406f70424800}
+      \strng{bibnamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authorbibnamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authornamehash}{17d0116a3ab251b47803406f70424800}
+      \strng{authorfullhash}{17d0116a3ab251b47803406f70424800}
+      \strng{authorfullhashraw}{17d0116a3ab251b47803406f70424800}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence}
+      \field{month}{06}
+      \field{title}{The Experience of Presence: Factor Analytic Insights}
+      \field{volume}{10}
+      \field{year}{2001}
+      \field{pages}{266\bibrangedash 281}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1162/105474601300343603
+      \endverb
+    \endentry
+    \entry{Wilcox}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c98d8ee1fc17898cc57c35f482dcd99c}{%
+           family={Wilcox},
+           familyi={W\bibinitperiod},
+           given={Laurie\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6670499d363fe7f4b745780395381207}{%
+           family={Allison},
+           familyi={A\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=267a89061f60212f2b11f034514bc806}{%
+           family={Elfassy},
+           familyi={E\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0cd52feccdc28e28c272ab3e50523dbc}{%
+           family={Grelik},
+           familyi={G\bibinitperiod},
+           given={Cynthia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{5d41a3e2814df86fc6a125986d4ba35b}
+      \strng{fullhash}{ddc4411d9f50666553a13cc65d63aa69}
+      \strng{fullhashraw}{ddc4411d9f50666553a13cc65d63aa69}
+      \strng{bibnamehash}{5d41a3e2814df86fc6a125986d4ba35b}
+      \strng{authorbibnamehash}{5d41a3e2814df86fc6a125986d4ba35b}
+      \strng{authornamehash}{5d41a3e2814df86fc6a125986d4ba35b}
+      \strng{authorfullhash}{ddc4411d9f50666553a13cc65d63aa69}
+      \strng{authorfullhashraw}{ddc4411d9f50666553a13cc65d63aa69}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Improving the sense of “presence” is a common goal of three-dimensional (3D) display technology for film, television, and virtual reality. However, there are instances in which 3D presentations may elicit unanticipated negative responses. For example, it is well established that violations of interpersonal space cause discomfort in real-world situations. Here we ask if people respond similarly when viewing life-sized stereoscopic images. Observers rated their level of comfort in response to animate and inanimate objects in live and virtual (stereoscopic projection) viewing conditions. Electrodermal activity was also recorded to monitor their physiological response to these stimuli. Observers exhibited significant negative reactions to violations of interpersonal space in stereoscopic 3D displays, which were equivalent to those experienced in the natural environment. These data have important implications for the creation of 3D media and the use of virtual reality systems.}
+      \field{issn}{1544-3558}
+      \field{journaltitle}{ACM Trans. Appl. Percept.}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Personal space in virtual reality}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{pages}{412\bibrangedash 428}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1145/1190036.1190041
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1190036.1190041
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1190036.1190041
+      \endverb
+      \keyw{Stereoscopic projection,and virtual reality,personal space}
+    \endentry
+    \entry{Zhang}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=948f26b38fba102b6f820808e554bc53}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac8532d299618b6b03ce7079a5cf0695}{%
+           family={Hommel},
+           familyi={H\bibinitperiod},
+           given={Bernhard},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature}%
+      }
+      \strng{namehash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{fullhash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{fullhashraw}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{bibnamehash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{authorbibnamehash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{authornamehash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{authorfullhash}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \strng{authorfullhashraw}{f8ce809a5c8b3e0ca5af6920c78229b0}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A virtual-reality setup was used to investigate the relationship between perceived body ownership and subjective anxiety, as assessed by an anxiety inventory (SA-I). A pilot study confirmed that synchrony between the participant's real hand movements and the movements of a virtual effector induced perceived ownership illusions. The illusions were comparable for virtual human hands and virtual cat claws, even though the overall acceptance was greater for human hands. In Experiment 1, participants used the virtual effector to collect coins and avoid knives descending on a screen before anxiety was measured. The level of anxiety increased with synchrony and was higher for human hands than for cat claws, but these two effects were independent. Experiment 2 separated effects of coin catching and knife avoiding by means of a between-participant design. The outcome of Experiment 1 was replicated in the knife-avoiding task but not in the coin-catching task, in which anxiety levels were low and not systematically affected by the type of virtual effector. Taken altogether, our findings suggest that subjective anxiety and ownership are strongly related.}
+      \field{journaltitle}{Psychol. Res.}
+      \field{month}{11}
+      \field{number}{6}
+      \field{title}{Body ownership and response to threat}
+      \field{volume}{80}
+      \field{year}{2016}
+      \field{pages}{1020\bibrangedash 1029}
+      \range{pages}{10}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

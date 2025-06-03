@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.2)  3 JUN 2025 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.2)  3 JUN 2025 18:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1026,7 +1026,7 @@ LaTeX Font Info:    Trying to load font information for T1+phv on input line 83.
  (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
-<pls-assets/front-bg.jpg, id=74, 597.432pt x 845.0772pt>
+<pls-assets/front-bg.jpg, id=90, 597.432pt x 845.0772pt>
 File: pls-assets/front-bg.jpg Graphic file (type jpg)
 <use pls-assets/front-bg.jpg>
 Package pdftex.def Info: pls-assets/front-bg.jpg  used on input line 83.
@@ -1070,7 +1070,7 @@ Overfull \hbox (5.38928pt too wide) in paragraph at lines 83--83
 []  []
  []
 
-<pls-assets/logo_mines.png, id=75, 667.7748pt x 344.2461pt>
+<pls-assets/logo_mines.png, id=91, 667.7748pt x 344.2461pt>
 File: pls-assets/logo_mines.png Graphic file (type png)
 <use pls-assets/logo_mines.png>
 Package pdftex.def Info: pls-assets/logo_mines.png  used on input line 83.
@@ -1109,7 +1109,7 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 
-<MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg, id=128, 72.5117pt x 21.51181pt>
+<MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg, id=152, 72.5117pt x 21.51181pt>
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
 Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 98.
@@ -1166,17 +1166,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
 [5]
-<images/metro1.png, id=147, 961.191pt x 602.85225pt>
+<images/metro1.png, id=171, 961.191pt x 602.85225pt>
 File: images/metro1.png Graphic file (type png)
 <use images/metro1.png>
 Package pdftex.def Info: images/metro1.png  used on input line 41.
 (pdftex.def)             Requested size: 134.42113pt x 84.30675pt.
-<images/Amphi.png, id=148, 1103.12125pt x 647.41875pt>
+<images/Amphi.png, id=172, 1103.12125pt x 647.41875pt>
 File: images/Amphi.png Graphic file (type png)
 <use images/Amphi.png>
 Package pdftex.def Info: images/Amphi.png  used on input line 46.
 (pdftex.def)             Requested size: 143.09538pt x 83.97969pt.
-<images/Fog3.png, id=149, 746.79pt x 452.28975pt>
+<images/Fog3.png, id=173, 746.79pt x 452.28975pt>
 File: images/Fog3.png Graphic file (type png)
 <use images/Fog3.png>
 Package pdftex.def Info: images/Fog3.png  used on input line 51.
@@ -1195,17 +1195,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
 [6 <./images/metro1.png> <./images/Amphi.png (PNG copy)> <./images/Fog3.png>]
-<images/subwayhandmenu.png, id=158, 483.0045pt x 311.9655pt>
+<images/subwayhandmenu.png, id=182, 483.0045pt x 311.9655pt>
 File: images/subwayhandmenu.png Graphic file (type png)
 <use images/subwayhandmenu.png>
 Package pdftex.def Info: images/subwayhandmenu.png  used on input line 25.
 (pdftex.def)             Requested size: 134.42113pt x 86.81659pt.
-<images/amphihandmenu.png, id=159, 591.4095pt x 344.487pt>
+<images/amphihandmenu.png, id=183, 591.4095pt x 344.487pt>
 File: images/amphihandmenu.png Graphic file (type png)
 <use images/amphihandmenu.png>
 Package pdftex.def Info: images/amphihandmenu.png  used on input line 30.
 (pdftex.def)             Requested size: 149.59943pt x 87.13602pt.
-<images/foghandmenu.png, id=160, 480.5955pt x 302.93175pt>
+<images/foghandmenu.png, id=184, 480.5955pt x 302.93175pt>
 File: images/foghandmenu.png Graphic file (type png)
 <use images/foghandmenu.png>
 Package pdftex.def Info: images/foghandmenu.png  used on input line 35.
@@ -1214,11 +1214,11 @@ Package pdftex.def Info: images/foghandmenu.png  used on input line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (EtudePilote/Conclusions.tex))
+) (EtudePilote/Metriques.tex) (EtudePilote/Conclusions.tex
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
-Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 107.
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 20.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1231,6 +1231,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
+Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 22.
+(pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 32.31535pt, for example:
+(fancyhdr)                \setlength{\headheight}{32.31535pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
+
+[8 <./images/subwayhandmenu.png> <./images/amphihandmenu.png> <./images/foghandmenu.png>]
+Overfull \hbox (21.6897pt too wide) in paragraph at lines 22--22
+ |\T1/lmr/b/n/14.4 4.4.2 Con-struc-tion et mod-i-fi-ca-tion de l'environnement d'immersion| 
+ []
+
+))
+
+File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
+<use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
 Package pdftex.def Info: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg  used on input line 107.
 (pdftex.def)             Requested size: 94.26517pt x 27.96532pt.
 
@@ -1240,7 +1258,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[8 <./images/subwayhandmenu.png> <./images/amphihandmenu.png> <./images/foghandmenu.png>] (IntegrationIA/IntegrationIA.tex (IntegrationIA/GenerationImagesVideos360.tex) (IntegrationIA/GenerationObjets.tex) (IntegrationIA/GenerationEnvironnements.tex))
+[9] (IntegrationIA/IntegrationIA.tex (IntegrationIA/GenerationImagesVideos360.tex) (IntegrationIA/GenerationObjets.tex) (IntegrationIA/GenerationEnvironnements.tex))
 
 File: MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg Graphic file (type jpg)
 <use MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg>
@@ -1253,7 +1271,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[9]
+[10]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 112.
  (C:\Users\Mines\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1270,7 +1288,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-20.31535pt}.
 
-[10] (main.aux)
+[11] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
@@ -1280,23 +1298,23 @@ L3 programming layer <2025-04-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8429E3CF5F308F1F1CDC1FB6159458A7;3308.
+(rerunfilecheck)             Checksum: EDCE2AE06F2FB4715A2D07458B13A9CE;4326.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32698 strings out of 469923
- 619619 string characters out of 5469171
- 1488027 words of memory out of 5000000
- 58901 multiletter control sequences out of 15000+600000
+ 32735 strings out of 469923
+ 620574 string characters out of 5469171
+ 1489203 words of memory out of 5000000
+ 58927 multiletter control sequences out of 15000+600000
  706471 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,101p,1244b,1365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,101p,1325b,1372s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmb10.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (12 pages, 5099690 bytes).
+Output written on main.pdf (13 pages, 5111508 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

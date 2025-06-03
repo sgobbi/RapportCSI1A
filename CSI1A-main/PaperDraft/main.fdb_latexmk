@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1748962565.32059 -1
-  "main.bcf" 1748962565 108612 a5866a245ebd42aa5f049ceaef0540eb "pdflatex"
-  "references.bib" 1748958106 1790 d49ed0ce9846c1ca3dd0fa84c79a6190 ""
+["biber main"] 1748969036.27699 "main.bcf" "main.bbl" "main" 1748969047.43705 0
+  "main.bcf" 1748969047 108796 41f62f61e35d2c28563453fd5823838e "pdflatex"
+  "references.bib" 1748968765 5417 2ebf6148558921fbb11db7d12c45faae ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1748962562.51038 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1748962565.32147 0
+["pdflatex"] 1748969044.52373 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1748969047.4379 0
   "C:/Users/Mines/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748879801 172975 d4e9b4c3f33aea9e16fec33229dd8a1b ""
   "C:/Users/Mines/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748856586 13159324 8c54fdb392d9ec97615330fd683a922b ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -231,8 +231,9 @@
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "EtudePilote/Conclusions.tex" 1748869506 6 2228e977ebea8966e27929f43e39cb67 ""
-  "EtudePilote/EtudePilote.tex" 1748869495 522 d3d6434011bef671ba39b6d443868352 ""
+  "EtudePilote/Conclusions.tex" 1748969032 2144 c469efeff5d523542f35ac0b30fafed5 ""
+  "EtudePilote/EtudePilote.tex" 1748963180 582 28ec84388fd3efab04c6b7658da6b251 ""
+  "EtudePilote/Metriques.tex" 1748869506 6 2228e977ebea8966e27929f43e39cb67 ""
   "EtudePilote/Objectif.tex" 1748960882 3960 06a346096346f29c484092d338fdf804 ""
   "EtudePilote/Protocole.tex" 1748962559 4519 4ff2fef5bdec197a1e61beb6cdf2898d ""
   "IntegrationIA/GenerationEnvironnements.tex" 1748868621 67 ed5f8ccc9617178a59632ff442097560 ""
@@ -251,12 +252,12 @@
   "images/foghandmenu.png" 1748962143 97603 6d65be0d89f7519082feb3c8ffa36374 ""
   "images/metro1.png" 1746612446 1349530 0d1392a6ade9989acf7dab30c6424a08 ""
   "images/subwayhandmenu.png" 1748962097 289569 31f496f623c54965a08e26ba1fc6e0e2 ""
-  "main.aux" 1748962565 4437 d4259efefb5399034405dc7d3249bb82 "pdflatex"
-  "main.bbl" 1748958114 5220 08bd4cb3ca79450472dfa7ec345be4b1 "biber main"
-  "main.out" 1748962565 3308 8429e3cf5f308f1f1cdc1fb6159458a7 "pdflatex"
-  "main.run.xml" 1748962565 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
+  "main.aux" 1748969047 5550 c721c321908e9669d643c28ad02419cf "pdflatex"
+  "main.bbl" 1748969038 13602 09a27a784b9bbfa5774a71e881fa5cdb "biber main"
+  "main.out" 1748969047 4326 edce2ae06f2fb4715a2d07458b13a9ce "pdflatex"
+  "main.run.xml" 1748969047 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
   "main.tex" 1748957475 2582 f669c80da5fe094257b5ce2f2b835be8 ""
-  "main.toc" 1748962565 1720 2fb6509df91eca59cea58470b2bd9d12 "pdflatex"
+  "main.toc" 1748969047 2168 f8bcb4efaf3a3083b9fbba7ce9ba466c "pdflatex"
   "pls-assets/front-bg.jpg" 1748879487 229448 e1da4b81193b1a47c397945ed6e25521 ""
   "pls-assets/logo_mines.png" 1748879489 92605 6eabf9c3cb38bce4983ee196bc9ee0e5 ""
   (generated)

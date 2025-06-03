@@ -6,15 +6,19 @@
 \contentsline {section}{\numberline {4}Etude pilote}{5}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Objectif de l'étude}{5}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Protocole}{6}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Conclusions}{8}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Intégration de l'IA}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Nature des objets générés}{9}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Génération d'images et de vidéos 360 degrés}{9}{subsubsection.5.1.1}%
-\contentsline {paragraph}{}{9}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Génération d'objets}{9}{subsubsection.5.1.2}%
-\contentsline {paragraph}{}{9}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}Génération d'environnements 3D}{9}{subsubsection.5.1.3}%
-\contentsline {paragraph}{}{9}{subsubsection.5.1.3}%
-\contentsline {subsection}{\numberline {5.2}Méthodes de prompting et d'interaction avec l'outil}{9}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Retrieval Augmented Generation}{9}{subsubsection.5.2.1}%
-\contentsline {section}{\numberline {6}Bibliographie}{10}{section.6}%
+\contentsline {subsection}{\numberline {4.3}Métriques}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Conclusions}{8}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Immersion VR et sentiment de présence}{8}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Construction et modification de l'environnement d'immersion}{9}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Durabilité des effets de l'immersion}{9}{subsubsection.4.4.3}%
+\contentsline {section}{\numberline {5}Intégration de l'IA}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Nature des objets générés}{10}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Génération d'images et de vidéos 360 degrés}{10}{subsubsection.5.1.1}%
+\contentsline {paragraph}{}{10}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Génération d'objets}{10}{subsubsection.5.1.2}%
+\contentsline {paragraph}{}{10}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Génération d'environnements 3D}{10}{subsubsection.5.1.3}%
+\contentsline {paragraph}{}{10}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.2}Méthodes de prompting et d'interaction avec l'outil}{10}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Retrieval Augmented Generation}{10}{subsubsection.5.2.1}%
+\contentsline {section}{\numberline {6}Bibliographie}{11}{section.6}%
