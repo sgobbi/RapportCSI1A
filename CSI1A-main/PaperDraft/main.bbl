@@ -16,5 +16,100 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Alexandrovsky}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=384eea26da989856244de4368fefa908}{%
+           family={Alexandrovsky},
+           familyi={A\bibinitperiod},
+           given={Dmitry},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ef37a18b32eee84ab9e0a6f5af62f5a}{%
+           family={Putze},
+           familyi={P\bibinitperiod},
+           given={Susanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=efe839bd4dba0a85fb7d9bfc2725369d}{%
+           family={Bonfert},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7ecc7b02ad7f48085642c3cd6649520}{%
+           family={Höffner},
+           familyi={H\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7086557478225fecd6b12c1aab6fd72}{%
+           family={Michelmann},
+           familyi={M\bibinitperiod},
+           given={Pitt},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=603417e1b4fed4295f14b0b21c9932a0}{%
+           family={Wenig},
+           familyi={W\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=923a446bc492f3038059dbf334469aa9}{%
+           family={Malaka},
+           familyi={M\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=487946315303099f43dacb0de74d2e2c}{%
+           family={Smeddinck},
+           familyi={S\bibinitperiod},
+           given={Jan\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Honolulu, HI, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{844b778b042bf16f7d776fe85bf1c35e}
+      \strng{fullhash}{160586592b954e5d80daefafde541ae1}
+      \strng{fullhashraw}{160586592b954e5d80daefafde541ae1}
+      \strng{bibnamehash}{844b778b042bf16f7d776fe85bf1c35e}
+      \strng{authorbibnamehash}{844b778b042bf16f7d776fe85bf1c35e}
+      \strng{authornamehash}{844b778b042bf16f7d776fe85bf1c35e}
+      \strng{authorfullhash}{160586592b954e5d80daefafde541ae1}
+      \strng{authorfullhashraw}{160586592b954e5d80daefafde541ae1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Questionnaires are among the most common research tools in virtual reality (VR) user studies. Transitioning from virtuality to reality for giving self-reports on VR experiences can lead to systematic biases. VR allows to embed questionnaires into the virtual environment which may ease participation and avoid biases. To provide a cohesive picture of methods and design choices for questionnaires in VR (inVRQ), we discuss 15 inVRQ studies from the literature and present a survey with 67 VR experts from academia and industry. Based on the outcomes, we conducted two user studies in which we tested different presentation and interaction methods of inVRQs and evaluated the usability and practicality of our design. We observed comparable completion times between inVRQs and questionnaires outside VR (nonVRQs) with higher enjoyment but lower usability for inVRQs. These findings advocate the application of inVRQs and provide an overview of methods and considerations that lay the groundwork for inVRQ design.}
+      \field{booktitle}{Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems}
+      \field{isbn}{9781450367080}
+      \field{series}{CHI '20}
+      \field{title}{Examining Design Choices of Questionnaires in VR User Studies}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1145/3313831.3376260
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3313831.3376260
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3313831.3376260
+      \endverb
+      \keyw{in-vr questionnaires,invrqs,research methods,user studies,virtual reality,vr}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

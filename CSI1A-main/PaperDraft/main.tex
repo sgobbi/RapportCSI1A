@@ -7,10 +7,15 @@
 \usepackage{fancyhdr}
 \usepackage{array}
 \usepackage[nottoc]{tocbibind}
-\usepackage{biblatex}
 \usepackage{color}
-\usepackage[urlcolor=blue]{hyperref}
-\hypersetup{colorlinks=true, linktoc=all, linkcolor=black}
+\usepackage[
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=blue,
+    urlcolor=blue,
+    pdfusetitle
+]{hyperref}
+\hypersetup{linktoc=all}
 \usepackage{enumitem}
 \usepackage{setspace}
 \usepackage{xcolor}
@@ -22,7 +27,10 @@
 \usepackage{lmodern}
 \usepackage{lipsum}
 \usepackage{cfg/psl-cover}
-\addbibresource{bibliographie.bib}
+%\usepackage{biblatex}
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\addbibresource{references.bib}
+%\addbibresource{bibliographie.bib}
 
 \titleformat{\subsection}[block]
   {\normalfont\large\bfseries}   
