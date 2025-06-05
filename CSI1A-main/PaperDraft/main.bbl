@@ -109,6 +109,45 @@
       \endverb
       \keyw{in-vr questionnaires,invrqs,research methods,user studies,virtual reality,vr}
     \endentry
+    \entry{Khosravi}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a1ff4a037bc2a87a0b153bcc9c2f410}{%
+           family={Khosravi},
+           familyi={K\bibinitperiod},
+           given={Zhaleh},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of Missouri--Columbia}%
+      }
+      \strng{namehash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{fullhash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{fullhashraw}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{bibnamehash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{authorbibnamehash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{authornamehash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{authorfullhash}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \strng{authorfullhashraw}{2a1ff4a037bc2a87a0b153bcc9c2f410}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Effects of Immersion and Presence on Spatial Memory Performance in Virtual Environments}
+      \field{type}{Master's thesis}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.32469/10355/68987
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.32469/10355/68987
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.32469/10355/68987
+      \endverb
+    \endentry
     \entry{Schubert}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b26ac9951d04483171485da590098c03}{%
