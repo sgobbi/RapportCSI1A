@@ -19,6 +19,47 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global/global}
+    \entry{Stanislavski}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a69b3a3246929f31adb39075ee49b103}{%
+           family={1863-1938},
+           familyi={1\bibinithyphendelim 1\bibinitperiod},
+           given={Stanislavski\bibnamedelimb Konstantin\bibnamedelima Sergueevitch},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions Payot et Rivages}%
+      }
+      \strng{namehash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{fullhash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{fullhashraw}{a69b3a3246929f31adb39075ee49b103}
+      \strng{bibnamehash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{authorbibnamehash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{authornamehash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{authorfullhash}{a69b3a3246929f31adb39075ee49b103}
+      \strng{authorfullhashraw}{a69b3a3246929f31adb39075ee49b103}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dans ce texte initialement publié en 1936, le créateur du Théâtre d'art de Moscou explique tous les aspects du métier d'acteur : l'action, la créativité, la concentration, la relaxation, la mémoire, le travail en groupe, etc.}
+      \field{booktitle}{<La >formation de l'acteur}
+      \field{edition}{Nouvelle édition.}
+      \field{isbn}{9782228913508}
+      \field{series}{Petite bibliothèque Payot classiques 42}
+      \field{title}{La formation de l'acteur}
+      \field{year}{2015}
+      \keyw{Art dramatique}
+    \endentry
     \entry{Alexandrovsky}{inproceedings}{}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=384eea26da989856244de4368fefa908}{%
@@ -108,6 +149,314 @@
       \verb https://doi.org/10.1145/3313831.3376260
       \endverb
       \keyw{in-vr questionnaires,invrqs,research methods,user studies,virtual reality,vr}
+    \endentry
+    \entry{Baldwin}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b4803056676fc51665a254e4ec67fed2}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Kathryn},
+           giveni={K\bibinitperiod},
+           givenun=0,
+           suffix={Jane\bibnamedelimb ;\bibnamedelimb Mederos\bibnamedelima Syssoeva},
+           suffixi={J\bibinitperiod\bibinitdelim ;\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Centre de recherche en littérature québécoise (CRELIQ) et Société québécoise d'études théâtrales (SQET)}%
+      }
+      \strng{namehash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{fullhash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{fullhashraw}{b4803056676fc51665a254e4ec67fed2}
+      \strng{bibnamehash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{authorbibnamehash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{authornamehash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{authorfullhash}{b4803056676fc51665a254e4ec67fed2}
+      \strng{authorfullhashraw}{b4803056676fc51665a254e4ec67fed2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{L’Annuaire théâtral}
+      \field{number}{25}
+      \field{title}{La biomécanique de Meyerhold et l’acteur contemporain : comment former l’acteur complet}
+      \field{year}{1999}
+      \field{pages}{134\bibrangedash 150}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.7202/041382ar
+      \endverb
+    \endentry
+    \entry{cohen2016method}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80002cf2626f4e262637e7b70edda49a}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Lola},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bb9e1c21e5f62b53c4899203843965af}{%
+           family={Rudikoff},
+           familyi={R\bibinitperiod},
+           given={Matthew\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abingdon, UK}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{fullhash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{fullhashraw}{80002cf2626f4e262637e7b70edda49a}
+      \strng{bibnamehash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{authorbibnamehash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{authornamehash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{authorfullhash}{80002cf2626f4e262637e7b70edda49a}
+      \strng{authorfullhashraw}{80002cf2626f4e262637e7b70edda49a}
+      \strng{editorbibnamehash}{bb9e1c21e5f62b53c4899203843965af}
+      \strng{editornamehash}{bb9e1c21e5f62b53c4899203843965af}
+      \strng{editorfullhash}{bb9e1c21e5f62b53c4899203843965af}
+      \strng{editorfullhashraw}{bb9e1c21e5f62b53c4899203843965af}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{isbn}{9780415750059}
+      \field{note}{First published December 15, 2016}
+      \field{title}{The Method Acting Exercises Handbook}
+      \field{year}{2016}
+    \endentry
+    \entry{grotowski}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=83cbeedc2e60c9f56b6adac5ac90ed67}{%
+           family={Grotowski},
+           familyi={G\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f2cb42e0be64b759276ee1628f501c0}{%
+           family={Levenson},
+           familyi={L\bibinitperiod},
+           given={C.B.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {L'Age d'Homme}%
+      }
+      \strng{namehash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{fullhash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{fullhashraw}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{bibnamehash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{authorbibnamehash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{authornamehash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{authorfullhash}{e9c1ff1dc513798ec7862670a7d91f62}
+      \strng{authorfullhashraw}{e9c1ff1dc513798ec7862670a7d91f62}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9782825103746}
+      \field{series}{Collection Theatre vivant}
+      \field{title}{Vers un théâtre pauvre}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb https://books.google.fr/books?id=xrPYBGuz_xkC
+      \endverb
+      \verb{url}
+      \verb https://books.google.fr/books?id=xrPYBGuz_xkC
+      \endverb
+    \endentry
+    \entry{kemp2012embodied}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4bc1de80bc84e925dba6ec6df9d4f2b9}{%
+           family={Kemp},
+           familyi={K\bibinitperiod},
+           given={Rick},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{fullhash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{fullhashraw}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{bibnamehash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{authorbibnamehash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{authornamehash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{authorfullhash}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \strng{authorfullhashraw}{4bc1de80bc84e925dba6ec6df9d4f2b9}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1st}
+      \field{title}{Embodied Acting: What Neuroscience Tells Us About Performance}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.4324/9780203126110
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4324/9780203126110
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4324/9780203126110
+      \endverb
+    \endentry
+    \entry{knebel2006analyseaction}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48ef0585e31520800f327e5810d66ca8}{%
+           family={Knebel},
+           familyi={K\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=2db975bfeb77a1e0f740f459bb264194}{%
+           family={Vassiliev},
+           familyi={V\bibinitperiod},
+           given={Anatoli},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=91dd188e8915c3fb18b1326050678317}{%
+           family={collectif},
+           familyi={c\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Arles, France}%
+      }
+      \list{publisher}{1}{%
+        {Actes Sud Papiers}%
+      }
+      \strng{namehash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{fullhash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{fullhashraw}{48ef0585e31520800f327e5810d66ca8}
+      \strng{bibnamehash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{authorbibnamehash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{authornamehash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{authorfullhash}{48ef0585e31520800f327e5810d66ca8}
+      \strng{authorfullhashraw}{48ef0585e31520800f327e5810d66ca8}
+      \strng{editorbibnamehash}{2db975bfeb77a1e0f740f459bb264194}
+      \strng{editornamehash}{2db975bfeb77a1e0f740f459bb264194}
+      \strng{editorfullhash}{2db975bfeb77a1e0f740f459bb264194}
+      \strng{editorfullhashraw}{2db975bfeb77a1e0f740f459bb264194}
+      \strng{translatorbibnamehash}{91dd188e8915c3fb18b1326050678317}
+      \strng{translatornamehash}{91dd188e8915c3fb18b1326050678317}
+      \strng{translatorfullhash}{91dd188e8915c3fb18b1326050678317}
+      \strng{translatorfullhashraw}{91dd188e8915c3fb18b1326050678317}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-7427-6149-4}
+      \field{title}{L'Analyse‑Action}
+      \field{year}{2006}
+      \field{pages}{352}
+      \range{pages}{1}
+    \endentry
+    \entry{lecoq2001moving}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=10a98eeadf41babf38a27bcf52084a61}{%
+           family={Lecoq},
+           familyi={L\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e7f8386c4b487f6e48a78d7cc0d01214}{%
+           family={Bradby},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{fullhash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{fullhashraw}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{bibnamehash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{authorbibnamehash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{authornamehash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{authorfullhash}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{authorfullhashraw}{10a98eeadf41babf38a27bcf52084a61}
+      \strng{translatorbibnamehash}{e7f8386c4b487f6e48a78d7cc0d01214}
+      \strng{translatornamehash}{e7f8386c4b487f6e48a78d7cc0d01214}
+      \strng{translatorfullhash}{e7f8386c4b487f6e48a78d7cc0d01214}
+      \strng{translatorfullhashraw}{e7f8386c4b487f6e48a78d7cc0d01214}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Moving Body}
+      \field{year}{2001}
+    \endentry
+    \entry{PiconVallin}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62deb8ffafe802065248fbe470cbec4d}{%
+           family={Picon-Vallin},
+           familyi={P\bibinithyphendelim V\bibinitperiod},
+           given={Beatrice},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Ensemble Théâtral de Gennevilliers [1974-2011] - Ensemble Théâtral de Gennevilliers ; Éditions Théâtrales [2012-....]}%
+      }
+      \strng{namehash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{fullhash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{fullhashraw}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{bibnamehash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{authorbibnamehash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{authornamehash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{authorfullhash}{62deb8ffafe802065248fbe470cbec4d}
+      \strng{authorfullhashraw}{62deb8ffafe802065248fbe470cbec4d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Théâtre/Public}}
+      \field{title}{{L'acteur poète (sur l'acteur meyerholdien)}}
+      \field{volume}{164}
+      \field{year}{2002}
+      \field{pages}{14\bibrangedash 26}
+      \range{pages}{13}
+      \verb{file}
+      \verb https://hal.science/hal-01707438v1/file/PiconVallinBeatrice_2002_ActeurPoete.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://hal.science/hal-01707438
+      \endverb
+      \verb{url}
+      \verb https://hal.science/hal-01707438
+      \endverb
+      \keyw{Meyerhold ; corps ; musique ; biomecanique ; image ; commedia dell'arte}
     \endentry
     \entry{Schubert}{article}{}{}
       \name{author}{3}{}{%

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1748969036.27699 "main.bcf" "main.bbl" "main" 1748969047.43705 0
-  "main.bcf" 1748969047 108796 41f62f61e35d2c28563453fd5823838e "pdflatex"
-  "references.bib" 1748968765 5417 2ebf6148558921fbb11db7d12c45faae ""
+["biber main"] 1749658353.00507 "main.bcf" "main.bbl" "main" 1749658366.79524 0
+  "main.bcf" 1749658366 109347 53c9175a3cd2dcf054d8e0f240bccfd8 "pdflatex"
+  "references.bib" 1749655190 8622 55138cebbe80e02677f0f04b46c155d5 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1748969044.52373 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1748969047.4379 0
+["pdflatex"] 1749658363.6517 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749658366.79633 0
   "C:/Users/Mines/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748879801 172975 d4e9b4c3f33aea9e16fec33229dd8a1b ""
   "C:/Users/Mines/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748856586 13159324 8c54fdb392d9ec97615330fd683a922b ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -242,9 +242,9 @@
   "IntegrationIA/IntegrationIA.tex" 1748868772 544 23459043fd9abfe612d8b6332a746573 ""
   "Introduction" 1748859984 173 414f7703e5fbc93d2b6c611724374afb ""
   "MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg" 1748854958 24978 b489e31ad06bbd0f3691c90c9e794cda ""
-  "RepetitionTheatrale/RepetitionTheatrale.tex" 1748859336 495 3edf9dc59ab7fbad26007c2f7496b2e1 ""
+  "RepetitionTheatrale/RepetitionTheatrale.tex" 1749658362 11171 3e3790f32910493a0b6f1aa898216a4d ""
   "RepetitionVR/RepetitionEnVR" 1748861020 42 3098ecc9ca1d98e18cf2f5de34b38652 ""
-  "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" 1748957475 2582 f669c80da5fe094257b5ce2f2b835be8 ""
+  "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" 1749632151 2582 f669c80da5fe094257b5ce2f2b835be8 ""
   "cfg/psl-cover.sty" 1748879766 11294 623f8e39cab34806092aa50149e2a913 ""
   "images/Amphi.png" 1746612424 1317711 7f4308d227a67fb4ce7c7b9f7858e79b ""
   "images/Fog3.png" 1748960404 419176 94291ffbfe8f1e6f1cc4ed1a34d46c18 ""
@@ -252,12 +252,12 @@
   "images/foghandmenu.png" 1748962143 97603 6d65be0d89f7519082feb3c8ffa36374 ""
   "images/metro1.png" 1746612446 1349530 0d1392a6ade9989acf7dab30c6424a08 ""
   "images/subwayhandmenu.png" 1748962097 289569 31f496f623c54965a08e26ba1fc6e0e2 ""
-  "main.aux" 1748969047 5550 c721c321908e9669d643c28ad02419cf "pdflatex"
-  "main.bbl" 1748969038 13602 09a27a784b9bbfa5774a71e881fa5cdb "biber main"
-  "main.out" 1748969047 4326 edce2ae06f2fb4715a2d07458b13a9ce "pdflatex"
-  "main.run.xml" 1748969047 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
-  "main.tex" 1748957475 2582 f669c80da5fe094257b5ce2f2b835be8 ""
-  "main.toc" 1748969047 2168 f8bcb4efaf3a3083b9fbba7ce9ba466c "pdflatex"
+  "main.aux" 1749658366 7066 d38a1d0a6e430395a9e2652d5279f2da "pdflatex"
+  "main.bbl" 1749658355 28423 a1b5dbc3ed0214287f826a6acd21e57e "biber main"
+  "main.out" 1749658366 4229 186cedc212dae43f96ac8c28cbb2a44d "pdflatex"
+  "main.run.xml" 1749658366 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
+  "main.tex" 1749632151 2582 f669c80da5fe094257b5ce2f2b835be8 ""
+  "main.toc" 1749658366 2155 782a8ebdbc1866d145e7777ab9d2785b "pdflatex"
   "pls-assets/front-bg.jpg" 1748879487 229448 e1da4b81193b1a47c397945ed6e25521 ""
   "pls-assets/logo_mines.png" 1748879489 92605 6eabf9c3cb38bce4983ee196bc9ee0e5 ""
   (generated)
