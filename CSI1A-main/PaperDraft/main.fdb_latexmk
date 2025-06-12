@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1749658353.00507 "main.bcf" "main.bbl" "main" 1749658366.79524 0
-  "main.bcf" 1749658366 109347 53c9175a3cd2dcf054d8e0f240bccfd8 "pdflatex"
+["biber main"] 1749719443.97161 "main.bcf" "main.bbl" "main" 1749719706.26374 0
+  "main.bcf" 1749719705 109411 c0d528d73329598dfb67f1510021b5fe "pdflatex"
   "references.bib" 1749655190 8622 55138cebbe80e02677f0f04b46c155d5 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749658363.6517 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749658366.79633 0
+["pdflatex"] 1749719703.16396 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749719706.26467 0
   "C:/Users/Mines/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748879801 172975 d4e9b4c3f33aea9e16fec33229dd8a1b ""
   "C:/Users/Mines/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748856586 13159324 8c54fdb392d9ec97615330fd683a922b ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -231,7 +231,7 @@
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "EtudePilote/Conclusions.tex" 1748969032 2144 c469efeff5d523542f35ac0b30fafed5 ""
+  "EtudePilote/Conclusions.tex" 1749719439 12439 75693f99c1eff013881956fe8aa71817 ""
   "EtudePilote/EtudePilote.tex" 1748963180 582 28ec84388fd3efab04c6b7658da6b251 ""
   "EtudePilote/Metriques.tex" 1748869506 6 2228e977ebea8966e27929f43e39cb67 ""
   "EtudePilote/Objectif.tex" 1748960882 3960 06a346096346f29c484092d338fdf804 ""
@@ -242,9 +242,10 @@
   "IntegrationIA/IntegrationIA.tex" 1748868772 544 23459043fd9abfe612d8b6332a746573 ""
   "Introduction" 1748859984 173 414f7703e5fbc93d2b6c611724374afb ""
   "MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg" 1748854958 24978 b489e31ad06bbd0f3691c90c9e794cda ""
-  "RepetitionTheatrale/RepetitionTheatrale.tex" 1749658362 11171 3e3790f32910493a0b6f1aa898216a4d ""
+  "Presence/Presence.tex" 1749719699 80 a48e9e3c444831c59663d7da0d3dc2ef ""
+  "RepetitionTheatrale/RepetitionTheatrale.tex" 1749658465 11171 3e3790f32910493a0b6f1aa898216a4d ""
   "RepetitionVR/RepetitionEnVR" 1748861020 42 3098ecc9ca1d98e18cf2f5de34b38652 ""
-  "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" 1749632151 2582 f669c80da5fe094257b5ce2f2b835be8 ""
+  "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" 1749719613 2622 fa820f14c89c49348093b26f788a3721 ""
   "cfg/psl-cover.sty" 1748879766 11294 623f8e39cab34806092aa50149e2a913 ""
   "images/Amphi.png" 1746612424 1317711 7f4308d227a67fb4ce7c7b9f7858e79b ""
   "images/Fog3.png" 1748960404 419176 94291ffbfe8f1e6f1cc4ed1a34d46c18 ""
@@ -252,12 +253,12 @@
   "images/foghandmenu.png" 1748962143 97603 6d65be0d89f7519082feb3c8ffa36374 ""
   "images/metro1.png" 1746612446 1349530 0d1392a6ade9989acf7dab30c6424a08 ""
   "images/subwayhandmenu.png" 1748962097 289569 31f496f623c54965a08e26ba1fc6e0e2 ""
-  "main.aux" 1749658366 7066 d38a1d0a6e430395a9e2652d5279f2da "pdflatex"
-  "main.bbl" 1749658355 28423 a1b5dbc3ed0214287f826a6acd21e57e "biber main"
-  "main.out" 1749658366 4229 186cedc212dae43f96ac8c28cbb2a44d "pdflatex"
-  "main.run.xml" 1749658366 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
-  "main.tex" 1749632151 2582 f669c80da5fe094257b5ce2f2b835be8 ""
-  "main.toc" 1749658366 2155 782a8ebdbc1866d145e7777ab9d2785b "pdflatex"
+  "main.aux" 1749719705 7243 be0a66a01fcc558e4c9e21a6856c439c "pdflatex"
+  "main.bbl" 1749719451 28445 ce03240bda630222004a7346f15b147f "biber main"
+  "main.out" 1749719705 4383 591a62d45ce0c57fef6b50790cc3e363 "pdflatex"
+  "main.run.xml" 1749719705 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
+  "main.tex" 1749719613 2622 fa820f14c89c49348093b26f788a3721 ""
+  "main.toc" 1749719705 2232 a98ef516b1b1fe113883cfff5e5da192 "pdflatex"
   "pls-assets/front-bg.jpg" 1748879487 229448 e1da4b81193b1a47c397945ed6e25521 ""
   "pls-assets/logo_mines.png" 1748879489 92605 6eabf9c3cb38bce4983ee196bc9ee0e5 ""
   (generated)
