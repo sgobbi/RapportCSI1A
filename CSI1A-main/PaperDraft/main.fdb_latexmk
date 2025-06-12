@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1749719443.97161 "main.bcf" "main.bbl" "main" 1749719706.26374 0
-  "main.bcf" 1749719705 109411 c0d528d73329598dfb67f1510021b5fe "pdflatex"
-  "references.bib" 1749655190 8622 55138cebbe80e02677f0f04b46c155d5 ""
+["biber main"] 1749743660.64913 "main.bcf" "main.bbl" "main" 1749743699.73286 0
+  "main.bcf" 1749743699 109867 87558738ab1b2cec7830ad0a2bc2efc4 "pdflatex"
+  "references.bib" 1749743431 12724 3c18ef0f66571f74b47587f00a1b077e ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749719703.16396 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749719706.26467 0
+["pdflatex"] 1749743696.70277 "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749743699.7337 0
   "C:/Users/Mines/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748879801 172975 d4e9b4c3f33aea9e16fec33229dd8a1b ""
   "C:/Users/Mines/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748856586 13159324 8c54fdb392d9ec97615330fd683a922b ""
   "C:/Users/Mines/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -237,13 +237,13 @@
   "EtudePilote/Objectif.tex" 1748960882 3960 06a346096346f29c484092d338fdf804 ""
   "EtudePilote/Protocole.tex" 1748962559 4519 4ff2fef5bdec197a1e61beb6cdf2898d ""
   "IntegrationIA/GenerationEnvironnements.tex" 1748868621 67 ed5f8ccc9617178a59632ff442097560 ""
-  "IntegrationIA/GenerationImagesVideos360.tex" 1748868540 109 db66a81222e40a1e47112ad822b03f51 ""
-  "IntegrationIA/GenerationObjets.tex" 1748868598 130 9f1babb19216ccd36a89e6758c37beb5 ""
-  "IntegrationIA/IntegrationIA.tex" 1748868772 544 23459043fd9abfe612d8b6332a746573 ""
+  "IntegrationIA/GenerationImagesVideos360.tex" 1749739999 1991 6b62d56edb44a2972430d9a7722b2116 ""
+  "IntegrationIA/GenerationObjets.tex" 1749743692 2571 2da3de20eb300695ee1bce4cead7cac8 ""
+  "IntegrationIA/IntegrationIA.tex" 1749735292 1727 0c533db22a584679f3c10276629b4966 ""
   "Introduction" 1748859984 173 414f7703e5fbc93d2b6c611724374afb ""
   "MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg" 1748854958 24978 b489e31ad06bbd0f3691c90c9e794cda ""
   "Presence/Presence.tex" 1749719699 80 a48e9e3c444831c59663d7da0d3dc2ef ""
-  "RepetitionTheatrale/RepetitionTheatrale.tex" 1749658465 11171 3e3790f32910493a0b6f1aa898216a4d ""
+  "RepetitionTheatrale/RepetitionTheatrale.tex" 1749721278 11832 cef0433fbb789c490b755a1fd41d1307 ""
   "RepetitionVR/RepetitionEnVR" 1748861020 42 3098ecc9ca1d98e18cf2f5de34b38652 ""
   "c:/Users/Mines/Desktop/Salome/CSI1A-main/CSI1A-main/PaperDraft/main.tex" 1749719613 2622 fa820f14c89c49348093b26f788a3721 ""
   "cfg/psl-cover.sty" 1748879766 11294 623f8e39cab34806092aa50149e2a913 ""
@@ -253,12 +253,12 @@
   "images/foghandmenu.png" 1748962143 97603 6d65be0d89f7519082feb3c8ffa36374 ""
   "images/metro1.png" 1746612446 1349530 0d1392a6ade9989acf7dab30c6424a08 ""
   "images/subwayhandmenu.png" 1748962097 289569 31f496f623c54965a08e26ba1fc6e0e2 ""
-  "main.aux" 1749719705 7243 be0a66a01fcc558e4c9e21a6856c439c "pdflatex"
-  "main.bbl" 1749719451 28445 ce03240bda630222004a7346f15b147f "biber main"
-  "main.out" 1749719705 4383 591a62d45ce0c57fef6b50790cc3e363 "pdflatex"
-  "main.run.xml" 1749719705 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
+  "main.aux" 1749743699 9514 4af862115ca761f11830bd5a54e693c2 "pdflatex"
+  "main.bbl" 1749743662 43992 7b96c47257721d9b7317a3ff2755a6bf "biber main"
+  "main.out" 1749743699 5863 cb4059654bd0d49e42432f97911dd756 "pdflatex"
+  "main.run.xml" 1749743699 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
   "main.tex" 1749719613 2622 fa820f14c89c49348093b26f788a3721 ""
-  "main.toc" 1749719705 2232 a98ef516b1b1fe113883cfff5e5da192 "pdflatex"
+  "main.toc" 1749743699 2950 e9e5009aceb4fd0b0d78ab7dda0b54e3 "pdflatex"
   "pls-assets/front-bg.jpg" 1748879487 229448 e1da4b81193b1a47c397945ed6e25521 ""
   "pls-assets/logo_mines.png" 1748879489 92605 6eabf9c3cb38bce4983ee196bc9ee0e5 ""
   (generated)

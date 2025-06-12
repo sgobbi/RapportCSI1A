@@ -16,10 +16,17 @@
 \contentsline {subsection}{\numberline {6.1}Nature des objets générés}{17}{subsection.6.1}%
 \contentsline {subsubsection}{\numberline {6.1.1}Génération d'images et de vidéos 360 degrés}{17}{subsubsection.6.1.1}%
 \contentsline {paragraph}{}{17}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Génération d'objets}{17}{subsubsection.6.1.2}%
-\contentsline {paragraph}{}{17}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Génération d'environnements 3D}{17}{subsubsection.6.1.3}%
-\contentsline {paragraph}{}{17}{subsubsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.2}Méthodes de prompting et d'interaction avec l'outil}{17}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Retrieval Augmented Generation}{17}{subsubsection.6.2.1}%
-\contentsline {section}{\numberline {7}Bibliographie}{18}{section.7}%
+\contentsline {subsubsection}{\numberline {6.1.2}Génération d'objets}{18}{subsubsection.6.1.2}%
+\contentsline {paragraph}{}{18}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Génération d'environnements 3D}{19}{subsubsection.6.1.3}%
+\contentsline {paragraph}{}{19}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Nature de l'intervention (facon de communiquer avec l'IA)}{19}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Aucune intervention de l'utilisateur}{19}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Prompting textuel}{19}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Prompting vocal}{19}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Prompting gestuel}{19}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}Niveau de l'intervention (personnalité de l'IA)}{19}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Prompted or independent AI}{19}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Incremental or instantaneous AI}{19}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Pleasing or provoking AI}{19}{subsubsection.6.3.3}%
+\contentsline {section}{\numberline {7}Bibliographie}{20}{section.7}%

@@ -189,6 +189,115 @@
       \verb https://doi.org/10.7202/041382ar
       \endverb
     \endentry
+    \entry{CHEN2024112113}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=650239492f0407f720078981a415ecc5}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xinxing},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=aa6ca987f6f46443b731a813a5e08b35}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Weizhi},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1609a9f99be297eea9610231bf164855}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Yingnan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7f66899fc92c28dded8a21f7e89ffe7}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Yehao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2a93eee402e3a92daad849a4946f64d2}
+      \strng{fullhash}{aced6e7735a5d2d01e615d8e730d50b3}
+      \strng{fullhashraw}{aced6e7735a5d2d01e615d8e730d50b3}
+      \strng{bibnamehash}{2a93eee402e3a92daad849a4946f64d2}
+      \strng{authorbibnamehash}{2a93eee402e3a92daad849a4946f64d2}
+      \strng{authornamehash}{2a93eee402e3a92daad849a4946f64d2}
+      \strng{authorfullhash}{aced6e7735a5d2d01e615d8e730d50b3}
+      \strng{authorfullhashraw}{aced6e7735a5d2d01e615d8e730d50b3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The architectural environment is expanding into digital, virtual, and informational dimensions, introducing challenges in virtual-real space interaction. Traditional design methods struggle with real-time interaction, integration with existing workflows, and rapid space modification. To address these issues, we present a generative design method that enables symbiotic interaction between virtual and real spaces using Mixed Reality (MR) and Generative Artificial Intelligence (AI) technologies. We developed two approaches: one using the Rhino modeling platform and the other based on the Unity3D game engine, tailored to different application needs. User experience testing in exhibition, leisure, and residential spaces evaluated our method's effectiveness. Results showed significant improvements in design flexibility, interactive efficiency, and user satisfaction. In the exhibition scenario, the Unity3D-based method excelled in rapid design modifications and immersive experiences. Questionnaire data indicated that MR offers good visual comfort and higher immersion than VR, effectively supporting architects in interface and scale design. Clustering analysis of participants' position and gaze data revealed diverse behavioral patterns in the virtual-physical exhibition space, providing insights for optimizing spatial layouts and interaction methods. Our findings suggest that the generative AI-driven MR method simplifies traditional design processes by enabling real-time modification and interaction with spatial interfaces through simple verbal and motion interactions. This approach streamlines workflows by reducing steps like measuring, modeling, and rendering, while enhancing user engagement and creativity. Overall, this method offers new possibilities for experiential exhibition and architectural design, contributing to future environments where virtual and real spaces coexist seamlessly.}
+      \field{issn}{0360-1323}
+      \field{journaltitle}{Building and Environment}
+      \field{title}{Enhancing interaction in virtual-real architectural environments: A comparative analysis of generative AI-driven reality approaches}
+      \field{volume}{266}
+      \field{year}{2024}
+      \field{pages}{112113}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.buildenv.2024.112113
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360132324009557
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0360132324009557
+      \endverb
+      \keyw{Mixed reality,Generative AI,Computational design,Architectural environments}
+    \endentry
+    \entry{chen2023text2lightzeroshottextdrivenhdr}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=8b1ee88161dfa048d349ca79ece23b62}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhaoxi},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c25745ed08ef393964e479f0c6bc4b72}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guangcong},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15a5322a1b261fe95ac6e04758acf39c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ziwei},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{fullhash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{fullhashraw}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{bibnamehash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{authorbibnamehash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{authornamehash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{authorfullhash}{45cba86e6997206610c56e878f0fe9a7}
+      \strng{authorfullhashraw}{45cba86e6997206610c56e878f0fe9a7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CV}
+      \field{eprinttype}{arXiv}
+      \field{title}{Text2Light: Zero-Shot Text-Driven HDR Panorama Generation}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2209.09898
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2209.09898
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2209.09898
+      \endverb
+    \endentry
     \entry{cohen2016method}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=80002cf2626f4e262637e7b70edda49a}{%
@@ -277,6 +386,63 @@
       \verb{url}
       \verb https://books.google.fr/books?id=xrPYBGuz_xkC
       \endverb
+    \endentry
+    \entry{jun2023shap}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=38c0cb9bae3fdee951ea06863f84ec6d}{%
+           family={Jun},
+           familyi={J\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc19c0dc057e2a02419916b39da6895b}{%
+           family={Nichol},
+           familyi={N\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4164e43d8cf919f5e3f8d80f5ea23f36}{%
+           family={Dhariwal},
+           familyi={D\bibinitperiod},
+           given={Prafulla},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2ee411344fec903f2963b5d60a3619f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82063a12702e7b2c026ae0ff03b8f102}{%
+           family={Ramesh},
+           familyi={R\bibinitperiod},
+           given={Aditya},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d569d1d5b8b5a7836017a98b430f959}{%
+           family={Sutskever},
+           familyi={S\bibinitperiod},
+           given={Ilya},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{80e722442317e0c03569c4d566beeeb0}
+      \strng{fullhash}{929df8af6728e5a1884a3a555134088d}
+      \strng{fullhashraw}{929df8af6728e5a1884a3a555134088d}
+      \strng{bibnamehash}{80e722442317e0c03569c4d566beeeb0}
+      \strng{authorbibnamehash}{80e722442317e0c03569c4d566beeeb0}
+      \strng{authornamehash}{80e722442317e0c03569c4d566beeeb0}
+      \strng{authorfullhash}{929df8af6728e5a1884a3a555134088d}
+      \strng{authorfullhashraw}{929df8af6728e5a1884a3a555134088d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2305.02463}
+      \field{title}{Shap-E: Generating Conditional 3D Implicit Functions}
+      \field{year}{2023}
     \endentry
     \entry{kemp2012embodied}{book}{}{}
       \name{author}{1}{}{%
@@ -415,6 +581,59 @@
       \field{title}{The Moving Body}
       \field{year}{2001}
     \endentry
+    \entry{li2025comprehensive}{article}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bcdd73174e26b44169c10e9083e72469}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=57f7f0240f141850db99567185d1a24c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=fc4852b16d7781e961ea767c9873c2c0}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{fullhash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{fullhashraw}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{bibnamehash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{authorbibnamehash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{authornamehash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{authorfullhash}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \strng{authorfullhashraw}{4bb1d2fdae821dd0cb4d1cd001bfd430}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of Data Science}
+      \field{title}{A Comprehensive Survey of Image Generation Models Based on Deep Learning}
+      \field{volume}{12}
+      \field{year}{2025}
+      \field{pages}{141\bibrangedash 170}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1007/s40745-024-00544-1
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s40745-024-00544-1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s40745-024-00544-1
+      \endverb
+    \endentry
     \entry{PiconVallin}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=62deb8ffafe802065248fbe470cbec4d}{%
@@ -457,6 +676,51 @@
       \verb https://hal.science/hal-01707438
       \endverb
       \keyw{Meyerhold ; corps ; musique ; biomecanique ; image ; commedia dell'arte}
+    \endentry
+    \entry{poole2022dreamfusion}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e528fda20644135dfae4f481a342148f}{%
+           family={Poole},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31ac0835ffc3ba6d612252522a6a2011}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=562f3254a241932db4a6d44a97473ec5}{%
+           family={Barron},
+           familyi={B\bibinitperiod},
+           given={Jonathan\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3567364ab52973659adf74ee0c6e6f3}{%
+           family={Mildenhall},
+           familyi={M\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{fullhash}{5e123f7b7d7c187f27103d018600214d}
+      \strng{fullhashraw}{5e123f7b7d7c187f27103d018600214d}
+      \strng{bibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorbibnamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authornamehash}{2ab1fa74b3bad871227919987fac4bbc}
+      \strng{authorfullhash}{5e123f7b7d7c187f27103d018600214d}
+      \strng{authorfullhashraw}{5e123f7b7d7c187f27103d018600214d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2209.14988}
+      \field{title}{DreamFusion: Text-to-3D using 2D diffusion}
+      \field{year}{2022}
     \endentry
     \entry{Schubert}{article}{}{}
       \name{author}{3}{}{%
@@ -502,6 +766,67 @@
       \range{pages}{16}
       \verb{doi}
       \verb 10.1162/105474601300343603
+      \endverb
+    \endentry
+    \entry{delatorre2023llmr}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=7cc9cb6fa6eed69b7d99756ac740c984}{%
+           family={Torre},
+           familyi={T\bibinitperiod},
+           given={Fernanda\bibnamedelimb De\bibnamedelima La},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b11bf47644e3a62d58dda76d15d58a0}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Cathy\bibnamedelima Mengying},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfd20ad4ae28f64fbdf8858a906efc4d}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03d2990fbbfe0c14671cca43368dd8a1}{%
+           family={Banburski-Fahey},
+           familyi={B\bibinithyphendelim F\bibinitperiod},
+           given={Andrzej},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=213fb5b80ed92bbb3bbc166fa969a6ff}{%
+           family={Fernandez},
+           familyi={F\bibinitperiod},
+           given={Judith\bibnamedelima Amores},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3bd903a5fb3856bf248ac4da6254be32}{%
+           family={Lanier},
+           familyi={L\bibinitperiod},
+           given={Jaron},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b5bcd869b4e04dda4d9c094c3eca78a6}
+      \strng{fullhash}{d534507e6d7914ca272bccb4e07092ee}
+      \strng{fullhashraw}{d534507e6d7914ca272bccb4e07092ee}
+      \strng{bibnamehash}{b5bcd869b4e04dda4d9c094c3eca78a6}
+      \strng{authorbibnamehash}{b5bcd869b4e04dda4d9c094c3eca78a6}
+      \strng{authornamehash}{b5bcd869b4e04dda4d9c094c3eca78a6}
+      \strng{authorfullhash}{d534507e6d7914ca272bccb4e07092ee}
+      \strng{authorfullhashraw}{d534507e6d7914ca272bccb4e07092ee}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.HC}
+      \field{eprinttype}{arXiv}
+      \field{title}{LLMR: Real-time Prompting of Interactive Worlds using Large Language Models}
+      \field{year}{2023}
+      \verb{eprint}
+      \verb 2309.12276
       \endverb
     \endentry
     \entry{Wilcox}{article}{}{}
@@ -574,12 +899,12 @@
     \endentry
     \entry{Zhang}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=948f26b38fba102b6f820808e554bc53}{%
+        {{un=1,uniquepart=given,hash=948f26b38fba102b6f820808e554bc53}{%
            family={Zhang},
            familyi={Z\bibinitperiod},
            given={Jing},
            giveni={J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=ac8532d299618b6b03ce7079a5cf0695}{%
            family={Hommel},
            familyi={H\bibinitperiod},

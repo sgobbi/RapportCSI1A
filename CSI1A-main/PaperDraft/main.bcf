@@ -2386,6 +2386,12 @@
     <bcf:citekey order="11" intorder="1">Khosravi</bcf:citekey>
     <bcf:citekey order="12" intorder="1">Zhang</bcf:citekey>
     <bcf:citekey order="13" intorder="1">Wilcox</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">li2025comprehensive</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">CHEN2024112113</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">chen2023text2lightzeroshottextdrivenhdr</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">delatorre2023llmr</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">poole2022dreamfusion</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">jun2023shap</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

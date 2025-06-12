@@ -1,3 +1,27 @@
 \paragraph{}
+Dans certaines applications de réalité virtuelle, l'utilisation d'images et de vidéos panoramiques
+ à 360° peut s’avérer pertinente. En effet, pour certains types d’environnements, une image statique 
+ peut suffire à transmettre une ambiance ou une intention visuelle, sans nécessiter la construction 
+ complète d’un espace 3D, souvent plus coûteux en termes de génération et de calcul. Ces dernières 
+ années, la génération d’images de haute qualité a connu des avancées significatives 
+ \cite{li2025comprehensive}, avec l’essor des modèles de diffusion qui tendent à supplanter les GANs (generative
+ adversial networks). Dans un contexte immersif, la génération d’images par IA peut être 
+ exploitée de différentes manières :
 
-Pour certaines utilisations en VR, les images et les vidéos 360 peuvent avoir leur interet. 
+\begin{itemize}
+\item \textbf{Création d’éléments 2D intégrés à la scène} : tels que des tableaux, écrans d’affichage, 
+panneaux de signalisation ou affiches. Ces éléments peuvent enrichir visuellement l’environnement sans 
+recourir à des objets 3D complexes.
+
+\item \textbf{Génération de textures et de matériaux} : la création dynamique de textures permet de
+modifier l’apparence d’un environnement (éclairage, température de couleur, ambiance générale) sans
+altérer sa géométrie \cite{CHEN2024112113}.
+
+\item \textbf{Création de décors de fond panoramiques} : la génération d’images 360° (skyboxes) à partir
+ de descriptions textuelles \cite{chen2023text2lightzeroshottextdrivenhdr} permet de simuler des 
+ paysages lointains ou des environnements secondaires. Bien que ces décors soient moins immersifs que 
+ des scènes entièrement modélisées en 3D, ils restent efficaces pour compléter un espace visuel. Par 
+ exemple, dans l’une des scènes de notre étude pilote, des skyboxes générées à l’aide de SkyboxAI 
+ représentaient l’extérieur visible à travers les fenêtres d’un amphithéâtre virtuel.
+
+\end{itemize}

@@ -1,2 +1,28 @@
 \paragraph{}
+La génération d'objets 3D est une des utilisations les plus répandues de l'IA générative pour utilisation
+en réalité virtuelle, que ce soit pour les développeurs mais aussi pour les utilisateurs. 
 Afin de peupler un environnement existent, l'utilisateur pourrait avoir recours a de la génération d'objets 3D. 
+En prenant l'exemple de notre étude pilote, le comédien pourrait avoir l'opportunité de prompter une IA pour
+rajouter des éléments qui ne seraient pas présents dans le catalogue proposé. Il existe plusieurs natures d'objets 
+3D et plusieurs facons de les générer:
+
+\begin{itemize}
+    \item Recherche d'objets présents dans une base de données existente: un des enjeux majeurs de la VR 
+    reste la rapidité et l'économie de la puissance de calcul. Il est donc possible de réduire le temps de génération
+    ainsi que la puissance de calcul nécéssaire grace a des algorithmes qui vont comprendre la requete de l'utilisateur
+    et la comparer aux objets deja modélisés. C'est ce qu'entreprend un des blocs de l'architecture du LLMR, Large Language Model for Mixed 
+    Reality (\cite{delatorre2023llmr}), en allant chercher dans la base de donnée SketchFab pour voir s'il existe un 
+    modèle existent de l'objet demandé. 
+    \item Génération d'objets Text to 3D: cette technique englobe tous les processus différents qui permettent 
+    la génération automatiques d'objets 3D a partir d'une description textuelle. Bien qu'il existe un grand nombre
+    de techniques différentes, le pipeline classique commence par l'interprétation sémantique du texte, suivie de la 
+    synthèse d'une représentation volumétrique intermediaire (nuages de points, champ de densité implicite, image de profondeur), 
+    avant d'etre converti vers un maillage 3D permettant le rendering. Parmis les techniques les plus récentes, il y a DreamFusion
+    (\cite{poole2022dreamfusion}), qui utilise un modèle de diffusion text to image deja entrainé afin d'optimiser des modèles 3D initialisés aléatoirement (sous forme de Neural Radiance Fields) sans
+    avoir recours a une base de données annotée de données 3D. OpenAI aussi travaille sur un modèle appelé Shap-E (\cite{jun2023shap}), qui génère des représentations
+    implicites qui peuvent ensuite etre convertie en mesh ou en neural radiance field. 
+    \item Génération d'objets animés et interactifs
+\end{itemize}
+
+dans l'etude pilote, les comédiens ont vocalisé l'envie/besoin d'avoir des objets 
+animés/interactifs 
