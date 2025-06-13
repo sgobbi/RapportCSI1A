@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1749815734.47476 "main.bcf" "main.bbl" "main" 1749817947.89257 0
-  "main.bcf" 1749817947.55522 110191 4996b5d3089901e99d3431b0dce0996f "pdflatex"
+["biber main"] 1749815734.47476 "main.bcf" "main.bbl" "main" 1749818506.72143 0
+  "main.bcf" 1749818506.29668 110191 4996b5d3089901e99d3431b0dce0996f "pdflatex"
   "references.bib" 1749815557.55012 14511 b19a05c52163b89477be1c5bcd005991 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1749817942.61812 "/Users/salomegobbi/Desktop/RapportCSI1A/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749817947.89313 0
+["pdflatex"] 1749818500.92857 "/Users/salomegobbi/Desktop/RapportCSI1A/CSI1A-main/PaperDraft/main.tex" "main.pdf" "main" 1749818506.72206 0
   "/Users/salomegobbi/Desktop/RapportCSI1A/CSI1A-main/PaperDraft/main.tex" 1749805163.52519 2622 fa820f14c89c49348093b26f788a3721 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
@@ -243,7 +243,7 @@
   "IntegrationIA/IntegrationIA.tex" 1749807947.8581 2498 2a839613cb30520affc9ec50ad9ed324 ""
   "Introduction" 1749805163.3268 164 414f7703e5fbc93d2b6c611724374afb ""
   "MinesParis-PSL-CtreDeRobotique2_logo-300x89.jpg" 1749805163.32793 24978 320348f77f3c441e7c70fe8d95e6a639 ""
-  "Presence/Presence.tex" 1749817942.53738 4260 554daa413e968cbae09001659b7b8c2a ""
+  "Presence/Presence.tex" 1749818500.28251 4556 0f4b0b8d14ee687313ac515789853683 ""
   "RepetitionTheatrale/RepetitionTheatrale.tex" 1749805163.32902 11704 cef0433fbb789c490b755a1fd41d1307 ""
   "RepetitionVR/RepetitionEnVR" 1749805163.32948 40 3098ecc9ca1d98e18cf2f5de34b38652 ""
   "cfg/psl-cover.sty" 1749805163.33018 10946 623f8e39cab34806092aa50149e2a913 ""
@@ -253,12 +253,12 @@
   "images/foghandmenu.png" 1749805163.41603 97603 a635a0695c7d266fae0b985d5ee2f166 ""
   "images/metro1.png" 1749805163.39939 1349530 52d85a22a84d8118b8f118726e623886 ""
   "images/subwayhandmenu.png" 1749805163.41941 289569 cd91c53889d5fc3711d18fe9162e930d ""
-  "main.aux" 1749817947.54506 10597 e14ffdc6916347341f62c072c2b6e1f3 "pdflatex"
+  "main.aux" 1749818506.28025 10597 e14ffdc6916347341f62c072c2b6e1f3 "pdflatex"
   "main.bbl" 1749815738.80689 49919 831c69dc9cd1eed613eaba2a5d811894 "biber main"
-  "main.out" 1749817947.5495 6353 341d85d5f4479c47312a42ac168332a4 "pdflatex"
-  "main.run.xml" 1749817947.55723 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
+  "main.out" 1749818506.28748 6353 341d85d5f4479c47312a42ac168332a4 "pdflatex"
+  "main.run.xml" 1749818506.30162 2311 e66a0e3ff336a5af941c7fe634558519 "pdflatex"
   "main.tex" 1749805163.52519 2622 fa820f14c89c49348093b26f788a3721 ""
-  "main.toc" 1749817947.55754 3092 441a802b9f23b445b4eed185eb37d6b8 "pdflatex"
+  "main.toc" 1749818506.3019 3092 441a802b9f23b445b4eed185eb37d6b8 "pdflatex"
   "pls-assets/front-bg.jpg" 1749805163.52986 229448 ef4f2f06f37c51fa34849660d0c63310 ""
   "pls-assets/logo_mines.png" 1749805163.53315 92605 5faaf2cdbe9e89283ed69546dff10dc8 ""
   (generated)
