@@ -4,28 +4,30 @@
 \contentsline {subsection}{\numberline {2.2}Recherche Interieure: Le travail du psychisme}{4}{subsection.2.2}%
 \contentsline {section}{\numberline {3}Répétition Theatrale en VR}{7}{section.3}%
 \contentsline {section}{\numberline {4}Présence et incarnation en VR}{8}{section.4}%
-\contentsline {section}{\numberline {5}Etude pilote}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Objectif de l'étude}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Protocole}{10}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Métriques}{12}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Conclusions}{12}{subsection.5.4}%
-\contentsline {subsubsection}{\numberline {5.4.1}Immersion VR et sentiment de présence}{12}{subsubsection.5.4.1}%
-\contentsline {subsubsection}{\numberline {5.4.2}Construction et modification de son environnement}{13}{subsubsection.5.4.2}%
-\contentsline {subsubsection}{\numberline {5.4.3}Durabilité des effets de l'immersion}{15}{subsubsection.5.4.3}%
-\contentsline {section}{\numberline {6}Intégration de l'IA}{17}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Nature des objets générés}{17}{subsection.6.1}%
-\contentsline {subsubsection}{\numberline {6.1.1}Génération d'images et de vidéos 360 degrés}{17}{subsubsection.6.1.1}%
-\contentsline {paragraph}{}{17}{subsubsection.6.1.1}%
-\contentsline {subsubsection}{\numberline {6.1.2}Génération d'objets}{18}{subsubsection.6.1.2}%
-\contentsline {paragraph}{}{18}{subsubsection.6.1.2}%
-\contentsline {subsubsection}{\numberline {6.1.3}Génération d'environnements 3D}{19}{subsubsection.6.1.3}%
-\contentsline {paragraph}{}{19}{subsubsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.2}Nature de l'intervention (facon de communiquer avec l'IA)}{19}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Aucune intervention de l'utilisateur}{19}{subsubsection.6.2.1}%
-\contentsline {subsubsection}{\numberline {6.2.2}Prompting textuel/vocal}{19}{subsubsection.6.2.2}%
-\contentsline {subsubsection}{\numberline {6.2.3}Prompting gestuel}{19}{subsubsection.6.2.3}%
-\contentsline {subsection}{\numberline {6.3}Niveau de l'intervention (personnalité de l'IA)}{19}{subsection.6.3}%
-\contentsline {subsubsection}{\numberline {6.3.1}IA promptée ou indépendante}{19}{subsubsection.6.3.1}%
-\contentsline {subsubsection}{\numberline {6.3.2}IA incrémentale ou instantanée}{19}{subsubsection.6.3.2}%
-\contentsline {subsubsection}{\numberline {6.3.3}Pleasing or provoking AI}{19}{subsubsection.6.3.3}%
-\contentsline {section}{\numberline {7}Bibliographie}{20}{section.7}%
+\contentsline {subsection}{\numberline {4.1}Sentiment d'incarnation dans un avatar}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Sentiment de présence dans un environnement virtuel}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Etude pilote}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Objectif de l'étude}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Protocole}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Métriques}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Conclusions}{13}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Immersion VR et sentiment de présence}{13}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}Construction et modification de son environnement}{14}{subsubsection.5.4.2}%
+\contentsline {subsubsection}{\numberline {5.4.3}Durabilité des effets de l'immersion}{16}{subsubsection.5.4.3}%
+\contentsline {section}{\numberline {6}Intégration de l'IA}{18}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Nature des objets générés}{18}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Génération d'images et de vidéos 360 degrés}{18}{subsubsection.6.1.1}%
+\contentsline {paragraph}{}{18}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Génération d'objets}{19}{subsubsection.6.1.2}%
+\contentsline {paragraph}{}{19}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Génération d'environnements 3D}{20}{subsubsection.6.1.3}%
+\contentsline {paragraph}{}{20}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Nature de l'intervention (facon de communiquer avec l'IA)}{20}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Aucune intervention de l'utilisateur}{20}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Prompting textuel/vocal}{20}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Prompting gestuel}{20}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Niveau de l'intervention (personnalité de l'IA)}{20}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}IA promptée ou indépendante}{20}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}IA incrémentale ou instantanée}{20}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Pleasing or provoking AI}{20}{subsubsection.6.3.3}%
+\contentsline {section}{\numberline {7}Bibliographie}{21}{section.7}%

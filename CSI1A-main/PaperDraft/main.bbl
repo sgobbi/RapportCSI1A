@@ -483,6 +483,56 @@
       \verb https://doi.org/10.4324/9780203126110
       \endverb
     \endentry
+    \entry{Kilteni2012Embodiment}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=22f7ac22a6a7e0b4fff5f7d273f43300}{%
+           family={Kilteni},
+           familyi={K\bibinitperiod},
+           given={Konstantina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc5c43a649089c4f9ff1d9b0ca4bbea9}{%
+           family={Groten},
+           familyi={G\bibinitperiod},
+           given={Raphaela},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{fullhash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{fullhashraw}{8db86e88b83e006844016a9cd17340ae}
+      \strng{bibnamehash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{authorbibnamehash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{authornamehash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{authorfullhash}{8db86e88b83e006844016a9cd17340ae}
+      \strng{authorfullhashraw}{8db86e88b83e006844016a9cd17340ae}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{The Sense of Embodiment in Virtual Reality}
+      \field{volume}{21}
+      \field{year}{2012}
+      \field{pages}{373\bibrangedash 387}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1162/PRES\_a\_00124
+      \endverb
+    \endentry
     \entry{knebel2006analyseaction}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=48ef0585e31520800f327e5810d66ca8}{%
@@ -768,6 +818,84 @@
       \verb 10.1162/105474601300343603
       \endverb
     \endentry
+    \entry{Slater2009PlaceIllusion}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhashraw}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{bibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorbibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhashraw}{df83b602f850d5091f5ab7de4726e66e}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society B: Biological Sciences}
+      \field{month}{12}
+      \field{number}{1535}
+      \field{title}{Place illusion and plausibility can lead to realistic behaviour in immersive virtual environments}
+      \field{volume}{364}
+      \field{year}{2009}
+      \field{pages}{3549\bibrangedash 3557}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1098/rstb.2009.0138
+      \endverb
+    \endentry
+    \entry{Slater2018Immersion}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df83b602f850d5091f5ab7de4726e66e}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Mel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {British Psychological Society}%
+      }
+      \strng{namehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{fullhashraw}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{bibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorbibnamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authornamehash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhash}{df83b602f850d5091f5ab7de4726e66e}
+      \strng{authorfullhashraw}{df83b602f850d5091f5ab7de4726e66e}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Psychology}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Immersion and the illusion of presence in virtual reality}
+      \field{volume}{109}
+      \field{year}{2018}
+      \field{pages}{431\bibrangedash 433}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1111/bjop.12305
+      \endverb
+    \endentry
     \entry{delatorre2023llmr}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=7cc9cb6fa6eed69b7d99756ac740c984}{%
@@ -896,6 +1024,50 @@
       \verb https://doi.org/10.1145/1190036.1190041
       \endverb
       \keyw{Stereoscopic projection,and virtual reality,personal space}
+    \endentry
+    \entry{WitmerSinger1998PresenceQuestionnaire}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=559ea9c7c38ef70b3fbe506bd8d0567d}{%
+           family={Witmer},
+           familyi={W\bibinitperiod},
+           given={Bob\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae973f57f8d91dbc23ef758f0a378b23}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{fullhash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{fullhashraw}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{bibnamehash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{authorbibnamehash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{authornamehash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{authorfullhash}{704e2a5352971bcd89ff1c21e4848dab}
+      \strng{authorfullhashraw}{704e2a5352971bcd89ff1c21e4848dab}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Presence: Teleoperators and Virtual Environments}
+      \field{month}{6}
+      \field{number}{3}
+      \field{title}{Measuring Presence in Virtual Environments: A Presence Questionnaire}
+      \field{volume}{7}
+      \field{year}{1998}
+      \field{pages}{225\bibrangedash 240}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1162/105474698565686
+      \endverb
     \endentry
     \entry{Zhang}{article}{}{}
       \name{author}{2}{}{%
